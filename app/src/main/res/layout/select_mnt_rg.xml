@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RadioGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:id="@+id/remainder_gb"
+    android:visibility="gone"
+    >
+
+    <RadioButton
+        android:text="1,"
+        android:id="@+id/mnt1_rb"
+        android:checked="true"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="2,"
+        android:id="@+id/mnt2_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="3,"
+        android:id="@+id/mnt3_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:id="@+id/mnt4_rb"
+        style="@style/select_month_pay_rb"
+        android:layout_width="wrap_content"
+        android:padding="0dp"
+        android:paddingRight="0dp"
+        android:text="4," />
+
+    <RadioButton
+        android:text="5,"
+        android:id="@+id/mnt5_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="6,"
+        android:id="@+id/mnt6_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="7,"
+        android:id="@+id/mnt7_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="8,"
+        android:id="@+id/mnt8_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="9,"
+        android:id="@+id/mnt9_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="10,"
+        android:id="@+id/mnt10_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="11,"
+        android:id="@+id/mnt11_rb"
+        style="@style/select_month_pay_rb"/>
+
+    <RadioButton
+        android:text="12,"
+        android:id="@+id/mnt12_rb"
+        style="@style/select_month_pay_rb"/>
+</RadioGroup>
+    

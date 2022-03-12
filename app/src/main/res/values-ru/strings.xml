@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="elect">электричество</string>
+    <string name="water">вода</string>
+    <string name="elect_cnt">электрический-счётчик</string>
+    <string name="water_cnt">счётчик-воды</string>
+    <string name="debt">задолженность</string>
+    <string name="clear">обнуление</string>
+    <string name="measur">-измерение-</string>
+    <string name="balance">остаток</string>
+    <string name="cancel">отмена</string>
+    <string name="update_debt_balance">пересчёт долга\остатка</string>
+    <string name="prev_pay">предыдущий платёж</string>
+    <string name="next_pay">следующий платёж</string>
+    <string name="setting">настройки</string>
+    <string name="undo_action">отмена изменений</string>
+    <string name="exit">выход</string>
+    <string name="new_tenant">новый постоялец</string>
+    <string name="new1">новый</string>
+    <string name="enter_password">введите пароль</string>
+    <string name="password">пароль</string>
+    <string name="ok">разрешение</string>
+    <string name="enter_again">введите заново</string>
+    <string name="without">без</string>
+    <string name="apartment">квартира</string>
+    <string name="tenant">постоялец</string>
+    <string name="counters">счётчики</string>
+    <string name="history">история</string>
+    <string name="units">единицы</string>
+    <string name="alerts">сообщения</string>
+    <string name="log">дневник</string>
+    <string name="pays">плательщик</string>
+    <string name="restore">восстановил</string>
+    <string name="view_only">только просмотр</string>
+    <string name="only_this_date">оставь только эту дату</string>
+    <string name="del_this_date">удалить только эту дату</string>
+    <string name="del_all_befor_date">удалить всё до этой даты</string>
+    <string name="del_all_after_date">удалить всё после этой даты</string>
+    <string name="illegal_password">неправильный пароль</string>
+    <string name="postponed_to__"> отложить до …</string>
+    <string name="pay_different_amount">оплачена другая сумма </string>
+    <string name="send_bill">отправь счёт</string>
+    <string name="pre_bill">предоплата</string>
+    <string name="add">добавить</string>
+    <string name="find">поиск</string>
+    <string name="edit">редактирование</string>
+    <string name="post_3_hours">отложить на три часа</string>
+    <string name="post_tomorrow">отложить на завтра</string>
+    <string name="post_week">отложить на неделю</string>
+    <string name="ignor">игнорировать</string>
+    <string name="del">удалить</string>
+    <string name="payment">платеж</string>
+    <string name="version">версия</string>
+    <string name="last_update">последнее обновление</string>
+    <string name="curent_date">текущая дата</string>
+    <string name="dayly_alert">ежедневные оповещения</string>
+    <string name="demo">демо</string>
+    <string name="update">обновление</string>
+    <string name="new_alert">новое оповещение </string>
+    <string name="are_you_sure">Вы уверены ?</string>
+    <string name="are_you_shure_you_want_to_exit">Вы уверены что хотите выйти?</string>
+    <string name="update_date_alerts_of__">обновление напоминание ..</string>
+    <string name="save_changes_dialog2">Вы хотите сохранить изменения?</string>
+    <string name="today">сегодня</string>
+    <string name="days">дней</string>
+    <string name="days1" formatted="false">(%s дней)</string>
+    <string name="days2" formatted="false">%s дней</string>
+    <string name="hours">часов</string>
+    <string name="single_check">один чек</string>
+    <string name="rent">аренда</string>
+    <string name="prop_tax">налог на недвижимость</string>
+    <string name="comment">комментарии</string>
+    <string name="total">всего</string>
+    <string name="details">детали</string>
+    <string name="date">детали</string>
+    <string name="counter">счётчик</string>
+    <string name="unit">единица</string>
+    <string name="standard_apartment">стандартная квартира</string>
+    <string name="divided_apartment">рaзделёння квартира</string>
+    <string name="unit1">комната</string>
+    <string name="warehouse">склад</string>
+    <string name="enter_name">введите имя/Адрес</string>
+    <string name="update_date">обновление дата</string>
+    <string name="now">сейчас</string>
+    <string name="no_payment">не к оплате</string>
+    <string name="amount_to_pay">сумма к оплате</string>
+    <string name="not_updated">устаревший</string>
+    <string name="tenant1">постоялец:</string>
+    <string name="status">статус</string>
+    <string name="apartment_name">название квартиры</string>
+    <string name="rate_price">тариф/цена</string>
+    <string name="payment_checks_in_advance">платеж чеками заранее</string>
+    <string name="amount_that_pay">сумма к оплате</string>
+    <string name="ending">завершение</string>
+    <string name="start">начало</string>
+    <string name="period1">период:</string>
+    <string name="payments">платежи</string>
+    <string name="next">СЛЕДУЮЩИЙ</string>
+    <string name="prev">предыдущий</string>
+    <string name="monthly">ежемесячно</string>
+    <string name="date2">дата....</string>
+    <string name="tariff">тариф</string>
+    <string name="start_contract">начало договора</string>
+    <string name="end_contract">окончание договора</string>
+    <string name="previous_tenants">прошлые квартиранты</string>
+    <string name="not_found1">(не найдено)</string>
+    <string name="not_found">не найдено</string>
+    <string name="new_tenant1">--новый постоялец --</string>
+    <string name="written_contract">подписан договор</string>
+    <string name="update_a_new_tenant">обновление нового жильца</string>
+    <string name="update_tenants">обновление квартирантов</string>
+    <string name="no_debt">нет задолженность</string>
+    <string name="alerts_appear_at__">уведомления появятся в… часу ..</string>
+    <string name="yes">да</string>
+    <string name="No">нет</string>
+    <string name="date_update">дата обновления</string>
+    <string name="choose__">выбрать…</string>
+    <string name="check1">чек-</string>
+    <string name="postponed_to_0__">отложить на день …</string>
+    <string name="empty">пустой</string>
+    <string name="Apartment_empty">пустая квартира</string>
+    <string name="invalid_value">неверная запись</string>
+    <string name="check">чек</string>
+    <string name="irrelevant">не применимо</string>
+    <string name="rental_not_updated">аренда не обновленa</string>
+    <string name="counter_not_updated_to_tenant">счётчик не обновлен для квартиранта</string>
+    <string name="next_payment_not_updated">следующий платёж не обновлён </string>
+    <string name="the_prev_payment___">предыдущий платёж …</string>
+    <string name="the_next_payment___">следующий платёж …</string>
+    <string name="monthly_payment__">ежемесячный платеж ..</string>
+    <string name="payed1">оплачено</string>
+    <string name="update_date1"> обновления дата</string>
+    <string name="update_log">обновление дневника</string>
+    <string name="add_record">добавить запись</string>
+    <string name="add_to_cur_bill">добавить на текущий счёт</string>
+    <string name="not_in_cur_bill">не на текущем счёту</string>
+    <string name="post_to_next_bill">отложение на следующий счёт</string>
+    <string name="pre_to_cur_bill">опередить на текущий счёт</string>
+    <string name="check2">(чек)</string>
+    <string name="new_reminder">новое напоминание</string>
+
+    <!-- ################################################# -->
+    <string name="load">загрузка</string>
+    <string name="wait__">пожалуйста, подождите …</string>
+    <string name="pay_by_check_opt" formatted="false">
+чек %s вложен
+\n
+(%s для %s)
+    </string>
+    <string name="pay_by_check_opt_for" formatted="false">
+%s для %s
+    </string>
+    <string name="_0_post_to_0" formatted="false">
+        %s  отложено на  %s
+        <!--
+        аренда отложено на 1-1-16
+        -->
+    </string>
+
+    <string name="message_amant_0_send_at_0" formatted="false">
+(Сообщение отправлено "%s" в %s)
+        <!--
+        (Сообщение отправлено 3150  в 23-12-15)
+        -->
+    </string>
+
+    <string name="payed_0_on_0" formatted="false">
+        оплачено  %s за %s
+        <!--
+оплачено 3088 за воду/электричество
+        -->
+    </string>
+
+    <string name="auto_update_from_0_to_0" formatted="false">
+автоматическое обновления %s
+\n
+(%s)
+        <!--
+автоматическое обновления счётчик воды с 301 до 397
+(Подвал бронировання комната)
+        -->
+    </string>
+
+
+    <string name="payment_0_done_at_0" formatted="false">
+ *платеж произведён %s произведён %s.
+        <!--
+*платеж 804 произведён 22-11-15 ( 33 дня назад).
+        -->
+    </string>
+
+    <string name="in_0_days_to_next_bill" formatted="false">
+ *осталось %s дней до следующего платежа 
+.
+        <!--
+*осталось 7 дней до следующего платежа.
+        -->
+    </string>
+
+    <string name="pay_delayed_0_days" formatted="false">
+оплата задерживается на %s дней
+        <!--
+оплата задерживается на 5 дней
+        -->
+    </string>
+
+    <string name="_o_pending_deposit_check_0_days" formatted="false">
+        %s:жду вложение чека%s.
+        <!--
+аранда:жду вложение чека (три дня).
+        -->
+    </string>
+
+    <string name="debt_0_of_0" formatted="false">
+        существует %s на сумму %s
+        <!--
+задолженность в 200 шек
+        -->
+    </string>
+
+    <string name="apartment_empty_0_days" formatted="false">
+      пустая квартира %s дня
+        <!--
+пустая квартира 23 дня
+        -->
+    </string>
+
+    <string name="previous_payment_was_0" formatted="false">
+        оплата %s предыдущий был  %s
+        <!--
+предыдущая оплата аренды была 18-12-15 (7 дней назад )
+        -->
+    </string>
+    <string name="next_0_payment_be_at_0" formatted="false">
+        оплата %s следующий должен был быть %s
+        <!--
+следующая оплата аренды должна была быть 15-1-16 (через 21 день)
+        -->
+    </string>
+
+    <string name="update_counter_0" formatted="false">Обновление %s счетчик</string>
+
+    <string name="end_contract_with_0" formatted="false">
+        окончание с %s
+        <!--
+закончил договор с квартирантом Надав
+        -->
+    </string>
+
+    <string name="payed_0" formatted="false">
+        оплачено %s
+        <!--
+оплачено 3150
+        -->
+    </string>
+
+
+    <string name="_0_not_to_pay" formatted="false">
+        %s не к оплате 
+        <!--
+электричество не к оплате
+        -->
+    </string>
+
+    <string name="also_update_0_in_units" formatted="false">
+        обновить тариф %s также в единицах:
+        <!--
+обновить тариф электричества также в единицах:
+        -->
+    </string>
+
+    <string name="total_0_filles_will_delete_are_you_sure">
+всего будут удалены %s файлов.
+\n
+Вы уверены ?
+        <!--
+всего будут удалены 2 файла.
+ Вы уверены ?
+        -->
+    </string>
+
+    <string name="in_0_days" formatted="false">
+        ещё %s дня
+        <!--
+ещё 7 дней
+        -->
+    </string>
+    <string name="before_0_days" formatted="false">
+         %s дней назад
+        <!--
+ 33 дня назад
+        -->
+    </string>
+
+
+    <string name="more_0_checkes" formatted="false">
+        ещё %s чеков
+        <!--
+ещё 6 чековf
+        -->
+    </string>
+
+    <string name="prev_tenants_in_0" formatted="false">
+        предыдущие квартиранты %s.
+        <!--
+предыдущие квартиранты в подвале.
+        -->
+    </string>
+
+
+    <string name="every_0month_in_0" formatted="false">
+      ты на %s месяцев по %s <!--
+предыдущие квартиранты в подвале.
+        -->
+    </string>
+
+    <string name="every_2month_in_0" formatted="false">
+        каждый месяц %s
+        <!--
+предыдущие квартиранты в подвале.
+        -->
+    </string>
+
+    <string name="every_0_in_month" formatted="false">
+        каждый %s месяца
+        <!--
+предыдущие квартиранты в подвале.
+        -->
+    </string>
+
+    <string name="illegal_date" formatted="false">
+        неверная дата %s 
+        <!--
+дата предыдущего платежа не корректна
+        -->
+    </string>
+
+    <string name="deposit_check_of_0" formatted="false">
+вложение чекана сумму %s.
+\n
+(%s..%s)
+        <!--
+вложение чека квартиранта Надава.
+(один месяц,ещё 8 чеков
+        -->
+    </string>
+
+    <string name="bill_of_0" formatted="false">
+%s платеж
+\n
+(%s для %s)
+        <!--
+квартирант Надав счёт
+ (один месяц, электричество /вода)
+        -->
+    </string>
+
+    <string name="next_bill_0" formatted="false">
+        следующий платеж:%s
+        <!--
+следующий платеж:15-1-16 (осталось 21 день)
+        -->
+    </string>
+
+    <string name="wait_for_deposit">в ожидании депозита</string>
+    <string name="wait_for_pay">ожидает оплаты</string>
+
+    <string name="remove_0" formatted="false">
+        отсутствует %s
+        <!--
+не хватает квартиранта Надава
+        -->
+    </string>
+
+    <string name="edit1" formatted="false">
+        %s(редактирование)
+    </string>
+
+    <string name="wait_for_update_or_post_0" formatted="false">
+        %s:ожидает обновления счётчика или отложение счета.
+        <!--
+электричество/вода:ожидает обновления счётчика или отложение счета.
+        -->
+    </string>
+
+    <string name="post_pay_0_to_next_month" formatted="false">
+        отложить оплату на  %s следующий месяц
+        <!--
+электричество/вода:ожидает обновления счётчика или отложение счета.
+        -->
+    </string>
+
+    <string name="_0_precede" formatted="false">
+        %s перенесенный
+        <!--
+оплата:электричество\аренда оплачени зарание,воды отложена
+        -->
+    </string>
+    <string name="_0_postponed" formatted="false">
+        %s отложено
+        <!--
+оплата: электричества\аренды ,воды отложена
+        -->
+    </string>
+
+    <string name="curent_0" formatted="false">
+        текущий(%s)
+        <!--
+текущий(01-01-16 12:00)
+        -->
+    </string>
+
+    <string name="orig_0" formatted="false">
+        оригинальный(%s)
+        <!--
+текущий(01-01-16 12:00)
+        -->
+    </string>
+
+    <string name="restor1_0" formatted="false">
+        (восстановление %s)
+        <!--
+(восстановление 25-12-15 22:36)
+        -->
+    </string>
+
+    <string name="reminder1_0" formatted="false">
+        напоминание (%s)
+        <!--
+напоминание (25-12-15)
+        -->
+    </string>
+
+    <string name="postponed2_to_0" formatted="false">
+        отложено на  %s
+        <!--
+отложено на  26-12-15 01:42
+        -->
+    </string>
+
+    <string name="call_to_0" formatted="false">
+       позвонил к %s.
+        <!--
+позвонил к квартиранту Надаву.
+        -->
+    </string>
+    <string name="send_message_to_0" formatted="false">
+         отправил сообщение %s.
+        <!--
+послал сообщение квартиранту Надаву.
+        -->
+    </string>
+
+    <string name="counter_0_out_of_date_cant_end_contract" formatted="false">
+ показание счётчика %s не обновлено
+\n
+не возможно завершить договор
+        <!--
+показание счётчика электричества/воды не обновлено
+ не возможно завершить договор
+        -->
+    </string>
+
+    <string name="_0_bill_not_paid_close_it_or_update_debt">
+счёт %s не оплачен.
+\n
+требуется закрыть счёт или пересчитать долг.
+        <!--
+счёт электричества/воды не оплачен.
+ требуется закрыть счёт или пересчитать долг.
+        -->
+    </string>
+
+    <string name="termination_should_be_in_0">
+        окончание договора ожидается %s
+        <!--
+окончание договора ожидается 1-10-16 ( дня назад  279)
+        -->
+    </string>
+
+    <string name="total_0_months">
+        всего %s месяцев
+        <!--
+всего 15 месяцев
+        -->
+    </string>
+    <string name="_0_finished_contract">
+%s Завершен контракт
+        <!--
+квартирант Надав закончил договор
+        -->
+    </string>
+
+    <string name="payment_0">
+        оплата %s
+        <!--
+оплата электричества
+        -->
+    </string>
+
+    <string name="wait_for_pay_0_days">
+        ожидает оплаты..(%s)
+        <!--
+ожидает оплаты..(3 дня)
+        -->
+    </string>
+
+    <string name="next_payment_0">
+        следующий платеж %s
+        <!--
+следующий платеж через 20 дней
+        -->
+    </string>
+
+    <string name="prev_payment_0">
+        (предыдущий платеж:%s)
+        <!--
+        -->
+    </string>
+
+    <string name="_0_new_reminders"> новые напоминания %s</string>
+
+    <string name="next_alert">
+        следующее предупреждение:
+    </string>
+
+    <string name="cant_save_changes_read_only">
+Не удалось сохранить изменения ,
+\n
+Открыт только для чтения
+    </string>
+
+    <string name="retroactive_update">
+возможно сделать ретроактивно
+\n
+       до предыдущего обновления :%s
+    </string>
+    <string name="language">язык</string>
+    <string name="chose_date_title">выбрать дату</string>
+    <string name="alert_canceled">Без предупреждения</string>
+    <string name="in_0_0_time" formatted="false">
+        ещё %s %s
+    </string>
+    <string name="_0_0_ago" formatted="false">
+        до %s %s
+    </string>
+    <string name="price">цена</string>
+    <string name="chose_currency_title">выбор валюты</string>
+    <string name="currency">валюта</string>
+    <string name="wait_for_deposit_0_days">в ожидании депозита..(%s).</string>
+    <string name="create_new_db">Создать новую базу данных.</string>
+    <string name="end_of_contract_alert1">договор с %s заканчивается ..</string>
+    <string name="include_counters">включая счётчики</string>
+    <string name="save_befor_restart_title">произведены изменения,Вы уверены?</string>
+    <string name="premium_upgrade">улучшения премии</string>
+    <string name="not_pro_title">
+        %s
+        \n
+        поддерживается только в Про версии
+    </string>
+
+    <string name="apartments_max_free">
+         больше чем
+        %s
+        квартиры
+    </string>
+    <string name="backup">сохранение</string>
+    <string name="send_sms_limit_title">ограничение посылания сообщений %s</string>s
+    <string name="round">закругленный</string>
+    <string name="_0_not_in_cur_bill">оплата %s не сейчас</string>
+    <string name="its_ok">это нормально</string>
+    <string name="email">электронная почта</string>
+    <string name="backup_by">сохранение при помощи..</string>
+    <string name="backup_email_budy">возможно восстановить версию при помощи открытия приложенного файла</string>
+    <string name="select_email_app">отправить через:</string>
+    <string name="restore_dialog_title">восстановление:</string>
+    <string name="advanced_payments">оплата %s зарание</string>
+    <string name="months_in_advance" formatted="false">%s месяцев зарание(%s)</string>
+    <string name="n_month">%s месяцев</string>
+    <string name="start_demo_dialog">
+Данные представлены только для иллюстрации…
+    </string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="contact_us_email_budy">
+       неполадки, проблемы требования просьбы вопросы
+    </string>
+    <string name="renta_suport_subject_email_budy">поддержка</string>
+    <string name="main">дома</string>
+        <string name="bacup_email_title">Резервная копия %s:</string>
+    <string name="reset_alerts_to_default">Сброс предупреждений по умолчанию ?</string>
+    <string name="set_default">дефолт</string>
+    <string name="hi_ten">привет %s</string>
+    <string name="counter_0_is_updated">%s Счетчик обновляется</string>
+    <string name="names_order">
+Йорам
+Давид
+Авраам
+Омер
+Ицхак
+Яков
+    </string>
+    <string name="payment_or_deposit">депозита/оплаты</string>
+    <string name="update_o_to_o" formatted="false">обновить %s до %s</string>
+    <string name="please_update_your_app">Необходимо обновить приложение</string>
+    <string name="not_now">не сейчас</string>
+    <string name="use_long_click_msg">использовать длинные нажмите</string>
+    <string name="share">доля</string>
+    <string name="cannot_run_without_permissions">Не может работать без разрешений</string>
+    <string name="del_all">удалить все</string>
+    <string name="minutes">минут</string>
+    <string name="how_to_start_title">Добро пожаловать,
+\n
+Как бы вы хотели начать?</string>
+    <string name="sample_database1">Пример базы данных</string>
+    <string name="del_0">удалить %s?</string>
+    <string name="hide">скрытые квартиры</string>
+    <string name="apprtment_shown">Квартира отображается</string>
+    <string name="show_demo">Просмотр демо.</string>
+    <string name="send_sms_to_0" formatted="false">Отправить SMS на %s ?</string>
+    <string name="update_next_date">Обновление следующей даты.</string>
+    <string name="property">свойства</string>
+    <string name="about">около</string>
+    <string name="show_demo_movie">Смотреть видео-учебник</string>
+    <string name="contact_not_found">%s не найден</string>
+    <string name="postponed_to_hour">Сегодня в ..</string>
+    <string name="change_counter_0">Изменение %s счетчик</string>
+    <string name="illegal_value">Недопустимое значение</string>
+    <string name="save">спасти</string>
+    <string name="in_app_purchases_error">Невозможно сделать в приложение покупки, проверьте вашу сеть или связаться с нами ...</string>
+    <string name="auto_save_on_exit">Автоматическое сохранение при выходе</string>
+    <string name="end_edit">Редактировать Готово</string>
+    <string name="no_changes_goto_history">Никаких изменений не было сделано ...\nВы можете просмотреть и восстановить \nранее сохраненные изменения со страницы истории.</string>
+    <string name="auto_cnt_msg">Автоматическое обновление выполняется, когда нет счетчика (физическое), и он рассчитывается по разности (внешний-внутренн</string>
+    <string name="is_auto_cnt">автоматический</string>
+    <string name="main_cnt">главный</string>
+    <string name="secondary_cnt">вторичный</string>
+    <string name="just_one_auto_unit_msg">только один блок может иметь автоматический счетчик (%s Набор Уже вступил)</string>
+    <string name="are_you_sure_delete_all_cnt" formatted="false">Все записи %s в %s будут удалены, вы уверены?</string>
+    <string name="illegal_auto_cnt" formatted="false">(Автоматический счетчик незаконным %s)</string>
+    <string name="last_updated">обновленный</string>
+    <string name="elect_cnts">электрический-счётчик</string>
+    <string name="water_cnts" >счётчик-воды</string>
+    <string name="should_update_auto_not_manual">Его автоматический счетчик</string>
+    <string name="diff_cnt_txt">разница</string>
+    <string name="changes_saved">Изменения сохранены</string>
+    <string name="edit_btn">Кнопка редактирования</string>
+    <string name="show_gen_edit_btn">кнопка Редактировать</string>
+    <string name="set_nickname_for">Выберите псевдоним для</string>
+    <string name="make_conntact_with">Вступите в контакт с %s</string>
+    <string name="long_press_on_text_field">Нажмите и удерживайте на текстовой строке</string>
+    <string name="rmv_gen_edit_popup_txt">Вы также можете получить доступ к меню режима редактирования</string>
+    <string name="undef_status">не определено</string>
+    <string name="add_units">Добавить единицы</string>
+    <string name="contract_with_0">Контракт с %s</string>
+    <string name="calendar">календарь</string>
+    <string name="goto_google_play">Google Play</string>
+    <string name="postponed_to_date_time">более поздний дату / время, ...</string>
+    <string name="end_of_contract_alert0">Аренда обновление с %s ...</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="auto_backup_google_drive_off">Прекратить автоматическое резервное копирование</string>
+    <string name="auto_backup_google_drive_on">"Запустить автоматическое резервное копирование "</string>
+    <string name="backup_once_by_email">Резервное копирование по электронной почте</string>
+    <string name="backup_recovery">Резервное копирование / восстановление</string>
+    <string name="change_google_account">Изменить аккаунт</string>
+    <string name="en_google_drive_backup_title">Вы хотите использовать Google Диск для резервного копирования своих данных?</string>
+    <string name="no_data_to_recover">Нет данных для восстановления</string>
+    <string name="not_connected">"Вы не подключены "</string>
+    <string name="recovery_from_google_drive_">Восстановление(Google-Drive)</string>
+    <string name="stop_this_progress">"Остановить этот прогресс? "</string>
+    <string name="recovery_">Восстановление</string>
+    <string name="restart_wait">пожалуйста, подождите …</string>
+    <string name="check_connection">Check connection</string>
+    <string name="file_already_exists_locally">Файл уже существует локально</string>
+    <string name="save_to_google_drive">Save to Google Drive</string>
+    <string name="all">все</string>
+    <string name="new_user">Новый пользователь</string>
+    <string name="tenants">Арендаторы</string>
+    <string name="add_unit">Добавить единицы</string>
+    <string name="unit_name">единица</string>
+    <string name="storage">Storage</string>
+    <string name="contacts">Contacts</string>
+    <string name="imojie">Imojie</string>
+    <string name="permissions">права доступа</string>
+    <string name="copy">копия</string>
+    <string name="post_month">Отклонить в месяц</string>
+    <string name="last_game_befor_you_go">Вы хотите увидеть последнюю демоверсию перед деинсталляцией?</string>
+    <string name="add_and_save">Добавить еще квартиру или сохранить</string>
+    <string name="add_new_apartment">Добавить апартаменты</string>
+    <string name="restart">Перезапуск</string>
+    <string name="setting_allow_anim">Анимации</string>
+    <string name="update_apartment">Обновить квартиру</string>
+    <string name="last_on_back_msg">Нажмите еще раз, чтобы выйти</string>
+    <string name="help_renta_dlog">Вы можете помочь продвинуть %s</string>
+    <string name="help_rate_us">Оценить 5 звезд</string>
+    <string name="debt_alert">предупреждение о долге</string>
+    <string name="wait_for_debt">Ожидание платежа по долгу</string>
+    <string name="date_format">Формат даты</string>
+    <string name="add_phone_numer">Добавить телефон</string>
+    <string name="phone_or_name">Телефон / Имя</string>
+    <string name="alerts_max_free">более %s предупреждений</string>
+    <string name="existing_user">Существующий пользователь</string>
+    <string name="add_contact">Добавить контакт</string>
+    <string name="local_setting">местный</string>
+    <string name="general">Генеральная</string>
+    <string name="data">данные</string>
+    <string name="auto">автоматический</string>
+    <string name="manual">руководство</string>
+    <string name="update_hide_meters">скрыть счетчики</string>
+    <string name="update_show_meters">показать счетчики</string>
+    <string name="shortcut">Ярлыки</string>
+    <string name="en_notif_shortcut">Показать в строке состояния</string>
+    <string name="notif_shortcat_toast_msg">Всегда показывать значок приложения в строке состояния</string>
+    <string name="sort_up_ascending">Восходящий</string>
+    <string name="sort_down_descending">нисходящий</string>
+    <string name="nickname">прозвище</string>
+    <string name="contact">контакт</string>
+    <string name="call">ringa</string>
+    <string name="SMS">SMS</string>
+    <string name="WhatsApp">WhatsApp</string>
+    <string name="pro_try">пробный</string>
+    <string name="premium_upgrade0">Обновить</string>
+    <string name="end_of_contract_alert">"Уведомление о прекращении аренды "</string>
+    <string name="lease_renewal_alert">"Предупреждение о продлении аренды "</string>
+    <string name="last_check">последней проверки</string>
+    <string name="payment_sound_effect">Звуковой эффект оплаты</string>
+    <string name="lease_renewal_alert_info">Месяц до окончания аренды</string>
+    <string name="tomorrow">завтра</string>
+    <string name="counter_restarted">%s перезапущено</string>
+    <string name="last_counter_payment_before_new">Последний платеж%s был сделан в%s</string>
+    <string name="stop">стоп</string>
+    <string name="not_installed">%s не установлен</string>
+    <string name="sd_card">SD-карта</string>
+    <string name="intrenal_storage">Внутренняя память</string>
+    <string name="ext_storage_location">хранения Android</string>
+    <string name="reports">Отчеты</string>
+    <string name="add_expense">"Добавить счет "</string>
+    <string name="add_income">"Добавить доход "</string>
+    <string name="average_income">"Средний заработок "</string>
+    <string name="expenses">Расходы</string>
+    <string name="post_2month">"Отложить на два месяца "</string>
+    <string name="revenue">доходов</string>
+    <string name="also_add_0_on">Также добавьте %s на</string>
+    <string name="month0">Начальный месяц</string>
+    <string name="month1">До месяца</string>
+    <string name="filter">Фильтр</string>
+    <string name="remove_tenant_history">Удалить историю арендаторов</string>
+    <string name="delete_report_from">Удалить отчет из ..</string>
+
+</resources>

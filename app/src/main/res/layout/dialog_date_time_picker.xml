@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:weightSum="100"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="wrap_content"
+        android:layout_weight="80"
+        android:layout_height="0dp"
+        />
+
+    <DatePicker
+        android:id="@+id/datePicker"
+        android:layout_width="wrap_content"
+        android:layout_weight="80"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+
+        android:orientation="horizontal"
+        android:weightSum="100"
+        >
+
+        <TextView
+            android:maxLines="1"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_height="wrap_content"
+            android:text="date"
+            android:id="@+id/date_tv"
+            android:gravity="right"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"/>
+
+        <TextView
+            android:maxLines="1"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="time"
+            android:id="@+id/time_tv"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"/>
+    </LinearLayout>
+    <!---AAA-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:gravity="center">
+        <Button
+            style="@style/my_dialog_btn"
+            android:text="@string/cancel"
+            android:id="@+id/cancel_btn"/>
+        <Button
+            style="@style/my_dialog_btn"
+            android:text="@string/now"
+            android:id="@+id/now_btn"/>
+        <Button
+            style="@style/my_dialog_btn"
+            android:text="@string/ok"
+            android:id="@+id/ok_btn"/>
+    </LinearLayout>
+</LinearLayout>

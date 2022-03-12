@@ -1,0 +1,366 @@
+﻿	Simplified Chinese(zh_HANS )
+_0_0_ago >	之前的%s %s
+_0_bill_not_paid_close_it_or_update_debt >	没有支付%s费用。直接将帐单关闭或更新帐单。
+_0_finished_contract >	%s合约结束
+_0_new_reminders >	%s新提醒
+_0_not_in_cur_bill >	%s须延迟缴费
+_0_not_to_pay >	%s尚未缴费
+_0_post_to_0 >	%s费用延%s缴纳
+_0_postponed >	%s费用延迟缴费
+_0_precede >	%s提早缴费
+_o_pending_deposit_check_0_days >	%s：等待存入 一张支票 %s。
+about>	关于
+add >	新增
+add_and_save>	添加另一个\ n公寓或保存
+add_contact>	添加联系人
+add_new_apartment>	添加公寓
+add_phone_numer>	添加电话号码
+add_record >	新增记录
+add_to_cur_bill >	新增到当前帐单
+add_unit>	新增房间
+add_units>	新增房间
+advanced_payments >	提前%s缴费
+alert_canceled >	取消提醒
+alerts >	提醒
+alerts_appear_at__ >	通知将显示在..
+alerts_max_free >	超过%s警报
+all>	所有
+also_update_0_in_units >	同时更新 %s 1度：
+amount_that_pay >	已付金额
+amount_to_pay >	总金额
+apartment >	公寓
+Apartment_empty >	空的公寓
+apartment_empty_0_days >	公寓已闲置%s天
+apartment_name >	公寓的名字
+apartments_max_free >	超过%s公寓
+	
+are_you_shure_you_want_to_exit >	你确定要退出吗？
+are_you_sure_delete_all_cnt >	%s中%s的所有记录都将被删除，您确定吗？
+auto_backup_google_drive_off>	自动备份关闭
+auto_backup_google_drive_on>	自动备份开启
+auto_cnt_msg>	此间内部没有安装分表，将由主表与分表的差异来自动计算
+auto_save_on_exit>	退出时自动保存
+auto_update_from_0_to_0 >	自动更新%s（%s）
+auto>	自动
+backup >	备份
+backup_by >	使用..备份
+backup_email_budy >	可以打开附件来恢复
+backup_once_by_email>	通过电子邮件备份一次
+backup_recovery>	备份/恢复
+bacup_email_title >	%s备份：
+balance >	平衡
+before_0_days >	%s天前
+bill_of_0 >	%s 付款 \ n（%s的%s）
+calendar>	日历
+call_to_0 >	打电话给%s。
+call>	打电话
+cancel >	取消
+cannot_run_without_permissions>	没有权限就无法运行
+cant_save_changes_read_only >	使用唯读开启档案，无法保存变更
+change_counter_0>	更改%s表
+change_google_account>	更改帐户
+changes_not_saved_are_you_sure >	你确定不保存变更吗？
+changes_saved>	保存更改
+check >	支票
+check_connection>	检查连接
+check1 >	支票
+check2 >	(支票)
+choose__ >	选择......
+chose_currency_title >	选择货币
+chose_date_title >	选择日期
+clear >	重置
+comment >	评论
+contact_not_found>	找不到%s
+contact_us >	联系我们
+contact_us_email_budy >	程式错误\\问题\\请求...
+contact>	联系
+contacts>	联系
+contract_with_0>	与%s显示合同
+copy>	复制
+counter >	表
+counter_0_is_updated>	%s表已更新
+counter_0_out_of_date_cant_end_contract >	%s没有更新meter\n的度数，所以合约无法结束
+counter_not_updated_to_tenant >	抄表过期
+counters >	表
+create_new_db >	新增一个资料库
+curent_0 >	当前（%s）
+curent_date >	当前日期
+currency >	货币
+data>	数据
+date >	日期
+date_format>	日期格式
+date_update >	上次变更的日期
+date2 >	日期......
+dayly_alert >	每天提醒
+days >	天
+days1 >	（%s天）
+days2 >	%s天
+debt >	未付费帐单
+debt_0_of_0 >	有%s的%s
+debt_alert>	帐单提醒
+del >	删除
+del_0>	删除%s？
+del_all_after_date >	删除这天之后的所有记录
+del_all_befor_date >	删除这天之前的所有记录
+del_all>	全部删除
+del_this_date >	仅删除这天
+demo >	示范
+deposit_check_of_0 >	存入%s的支票。\ N（%s..%s）
+details >	详细信息
+diff_cnt_txt>	相差
+divided_apartment >	分开的公寓
+edit >	编辑
+edit_btn>	编辑按钮
+edit1 >	%s（编辑）
+elect >	电
+elect_cnt >	电表
+elect_cnts>	电表
+email >	E-mail
+empty >	空
+en_google_drive_backup_title>	您想使用Google云端硬盘备份数据吗？
+en_notif_shortcut>	在状态栏中显示
+end_contract >	合同终止
+end_contract_with_0 >	完成%s
+end_edit>	完成编辑
+end_of_contract_alert>	合同终止提醒
+end_of_contract_alert0>	%s该续约了
+end_of_contract_alert1 >	与%s的合约结束..
+ending >	结束
+enter_again >	再次输入
+enter_name >	输入姓名/地址
+enter_password >	输入密码
+every_0_in_month >	每个月的%s号
+every_0month_in_0 >	每%s月的%sth
+every_2month_in_0 >	每两个月的%s
+existing_user>	现有用户
+exit >	退出
+file_already_exists_locally>	文件已在本地存在
+find >	从通讯录新增
+general>	一般
+	
+	
+google_drive>	Google云端硬盘
+goto_google_play>	Google Play
+help_rate_us>	给我们评分5星
+help_renta_dlog>	你可以帮助推广%s
+hi_ten>	嗨%s
+hide>	隐藏公寓
+history >	历史纪录
+hours >	时间
+how_to_start_title>	欢迎\ n，你想从哪开始呢？
+ignor >	忽略
+illegal_auto_cnt >	（%s自动计算错误）
+illegal_date >	%s日期无效
+illegal_password >	密码错误
+illegal_value>	无效数值
+imojie>	表情符号
+in_0_0_time >	在%s %s
+in_0_days >	还有%s天
+in_0_days_to_next_bill >	离下次缴费还有%s天。
+in_app_purchases_error>	无法进行应用程式内购买，请检查您的网络或与我们联系...
+include_counters >	包括表
+invalid_value >	无效数值
+irrelevant >	不相干
+is_auto_cnt>	自动
+its_ok >	没关系
+just_one_auto_unit_msg >	只能设定一间自动计算主表与分表的差异（已设置在 %s）
+language >	语言
+last_check>	最后检查
+last_game_befor_you_go>	你想在卸载之前看到最后一个示范影片吗？
+last_on_back_msg>	再点一次退出
+last_update >	最后更新
+last_updated>	更新
+lease_renewal_alert_info>	合同结束前一个月
+lease_renewal_alert>	合同续签提醒
+load >	载入中
+local_setting>	当地
+log >	记录
+long_press_on_text_field>	长按任何文字档案
+main >	首页
+main_cnt>	首页
+make_conntact_with >	与%s联系
+manual>	手册
+measur >	 - 测量 - 
+message_amant_0_send_at_0 >	（消息是在%s发送的%s）
+minutes>	分钟
+monthly >	每月一次
+monthly_payment__ >	每月付款..
+months_in_advance >	%s提前几个月（%s）
+more_0_checkes >	剩余的%s检查
+n_month >	%s几个月
+new_alert >	添加新提醒
+new_reminder >	新提醒
+new_tenant >	新房客
+new_tenant1 >	- 新房客- 
+new_user>	新使用者
+new1 >	新
+next >	下一个
+next_0_payment_be_at_0 >	下一个%s付款应为%s
+next_alert >	下次提醒：
+next_bill_0 >	下次付款：%s
+next_pay >	下次付款
+next_payment_0 >	下次付款%s
+next_payment_not_updated >	下次付款未更新
+nickname>	昵称
+No >	没有
+no_changes_goto_history>	未进行任何更改... \ n您可以从历史记录页面查看和还原以前保存的修订。
+no_data_to_recover>	没有数据可以恢复
+no_debt >	没有帐单
+no_payment >	没有帐单
+not_connected>	您没有连接
+not_found >	找不到
+not_found1 >	（未找到）
+not_in_cur_bill >	不在目前的帐单中
+not_now>	不是现在
+not_pro_title >	%s \ n仅提供专业版使用。
+not_updated >	没有更新
+notif_shortcat_toast_msg>	在状态栏中始终显示应用程序图标
+now >	现在
+ok >	确定
+only_this_date >	只保留这个日期
+orig_0 >	原创（%s）
+password >	密码
+pay_by_check_opt >	%s 已付款 （%s的%s）
+pay_delayed_0_days >	%s付款延迟了几天
+pay_different_amount >	支付不同的金额
+payed_0 >	%s已付费
+payed_0_on_0 >	支付%s %s
+payed1 >	支付
+payment >	付款
+payment_0 >	%s付款
+payment_0_done_at_0 >	*在%s支付%s。
+payment_checks_in_advance >	支票逾期支付
+payment_or_deposit>	付款/存款
+payment_sound_effect>	付款音效
+payments >	应付款项
+pays >	支付
+period1 >	期间：
+permissions>	权限
+phone_or_name>	电话/姓名
+please_update_your_app>	请更新您的应用程式
+post_3_hours >	在3个小时内提醒我
+post_month>	延迟一个月
+post_pay_0_to_next_month >	延后下个月%s的缴费
+post_to_next_bill >	拒绝下一个账单
+post_tomorrow >	明天提醒我
+post_week >	拒绝一周
+postponed_to__ >	延后到以后的日期......
+postponed_to_0__ >	延后到一天..
+postponed_to_date_time>	推迟到以后的date/time …
+postponed_to_hour>	今天在..
+postponed2_to_0 >	延后到%s
+pre_bill >	预付账单
+pre_to_cur_bill >	先前预付缴纳金额
+premium_upgrade >	专业版更新
+premium_upgrade0>	额外费用
+prev >	前一页
+prev_pay >	以前的付款
+prev_payment_0 >	（以前的付款：%s）
+prev_tenants_in_0 >	以前的房客
+previous_payment_was_0 >	之前的%s帐单是在%s
+previous_tenants >	以前的房客
+price >	价格
+pro_try>	尝试
+prop_tax >	房屋税
+property>	房屋
+rate_price >	价格
+recovery_>	恢复
+recovery_from_google_drive_>	恢复（Google云端硬盘）
+reminder1_0 >	提醒（%s）
+remove_0 >	删除%s
+rent >	租金
+renta_suport_subject_email_budy >	支持Renta
+rental_not_updated >	没有更新租金
+reset_alerts_to_default>	将警报重置为默认值？
+restart_wait >	重开中，请稍后......
+restart>	重新开始
+restor1_0 >	（恢复%s）
+restore >	恢复
+restore_dialog_title >	恢复：
+retroactive_update >	您可以进行回朔\ n至％s的更新
+rmv_gen_edit_popup_txt>	您也可以从选单中进行编辑
+round >	无条件舍去
+sample_database1>	数据库范例
+save_befor_restart_title >	你做出的變更將會遺失，你確定嗎？
+save_changes_dialog2 >	你想保存变更吗？
+save_to_google_drive>	保存到Google云端硬盘
+save>	保存
+secondary_cnt>	次要
+select_email_app >	发送人：
+send_bill >	寄出帐单
+send_message_to_0 >	发送讯息给%s。
+send_sms_limit_title >	向%s发送有限的讯息
+send_sms_to_0>	发送短信到%s
+set_default>	默认
+set_nickname_for>	更改昵称
+setting >	设置
+setting_allow_anim>	动画
+share>	分享
+shortcut>	快捷键
+should_update_auto_not_manual>	自动计算
+show_demo_movie>	观看教程视频
+show_demo>	播放示范影片
+show_gen_edit_btn>	显示编辑按钮
+show>	显示公寓
+single_check >	单一检查
+SMS>	短信
+sort_down_descending>	降序
+sort_up_ascending>	升序
+standard_apartment >	标准公寓
+start >	开始
+start_contract >	开始租赁协议
+start_demo_dialog >	申请中提供的数据仅供参考......
+status >	状态
+stop_this_progress>	取消执行
+storage>	储存
+tariff >	金额
+tenant >	房客
+tenant1 >	房客：
+tenants>	房客
+termination_should_be_in_0 >	合同终止应该在%s上
+the_next_payment___ >	下次付款......
+the_prev_payment___ >	以前的付款......
+today >	今天
+tomorrow>	明天
+total >	总金额
+total_0_filles_will_delete_are_you_sure >	％s文件将被删除。\ n您确定吗？
+total_0_months >	总共%s月
+undef_status>	未定义
+undo_action >	恢复上一个动作
+unit >	房間
+unit_name>	房间名称
+unit1 >	工作室
+units >	单位房間
+update >	更新
+update_a_new_tenant >	更新新房客
+update_apartment>	更新公寓
+update_counter_0 >	更新%s表
+update_date >	更新日期
+update_date_alerts_of__ >	更新通知..
+update_date1 >	更新日期
+update_debt_balance >	更新余额
+update_hide_meters>	隐藏表
+update_log >	更新日记
+update_next_date>	更新下一个日期。
+update_o_to_o  >	将%s更新为%s
+update_show_meters>	显示表
+update_tenants >	编辑房客
+use_long_click_msg>	请长按..
+version >	版本
+view_only >	仅供查看
+wait__ >	请稍等......
+wait_for_debt>	等待偿还未付帐单
+wait_for_deposit >	等待支票存入
+wait_for_deposit_0_days >	等待支票存入.（%s）。
+wait_for_pay >	等待支票存入
+wait_for_pay_0_days >	等待支票存入..（%s）
+wait_for_update_or_post_0 >	%s：等待更新计费或延期账单
+warehouse >	仓库
+water >	水
+water_cnt >	水表
+water_cnts>	水表
+WhatsApp>	WhatsApp
+without >	没有
+written_contract >	已签合同
+yes >	是的
+names_order>	宋 郑 谢 韩 唐 冯 于

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:gravity="center"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="100"
+        android:layout_height="wrap_content"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="100"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_height="wrap_content"
+            android:id="@+id/date_tv"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="@string/date"
+            android:padding="15dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/comment_et"
+            android:background="@color/comment_color"
+            android:gravity="center|top"
+            android:hint="@string/comment"
+            android:textColor="@color/title1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="4"
+        android:layout_height="wrap_content" android:gravity="center">
+
+        <CheckBox
+            android:id="@+id/add_phone_number"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/add_phone_numer" />
+
+    </LinearLayout>
+</LinearLayout>

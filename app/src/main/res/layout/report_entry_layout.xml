@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="left|center"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:id="@+id/report_entry0_ll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="start|center"
+        android:orientation="horizontal"
+        android:showDividers="beginning|middle|end"
+        android:weightSum="100">
+
+        <TextView
+            android:id="@+id/report_date_tv"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="25"
+            android:gravity="center"
+            android:text="12/34/56" />
+
+
+        <TextView
+            android:id="@+id/report_apprtment_tv"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="75"
+            android:gravity="center|start"
+            android:text="@string/unit_name" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/report_entry1_ll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="left|center"
+        android:orientation="horizontal"
+        android:showDividers="beginning|middle|end"
+        android:weightSum="100">
+
+        <TextView
+            android:id="@+id/report_tenant_tv"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="25"
+            android:gravity="center"
+            android:text="@string/tenant"
+
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeMinTextSize="1sp"
+            app:autoSizeStepGranularity="1sp"
+            app:autoSizeTextType="uniform"
+
+            />
+
+        <TextView
+            android:id="@+id/report_subject_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:gravity="start|center"
+            android:maxLines="1"
+
+            android:text="@string/elect"
+            app:autoSizeMaxTextSize="100sp"
+            app:autoSizeMinTextSize="1sp"
+            app:autoSizeStepGranularity="1sp"
+            app:autoSizeTextType="uniform"
+
+            />
+
+        <TextView
+            android:id="@+id/report_price_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="25"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="12345$" />
+
+    </LinearLayout>
+</LinearLayout>

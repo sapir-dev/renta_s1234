@@ -1,0 +1,79 @@
+https://developers.google.com/drive/android/get-started
+https://developers.google.com/+/mobile/android/getting-started
+https://console.developers.google.com/apis/credentials?project=renta-159807
+
+cd "D:\efi\back_f\my_project\android\svn_repository\trunk\renta"
+keytool -exportcert -keystore renta_key  -list -v
+adb devices
+adb shell am -list
+adb shell am -list packegs
+adb shell am list packegs
+adb shell am list packegs -f
+adb shell am list packags -f
+adb shell am list packages -f
+adb shell pm list packages -f
+adb shell am list packages -f|grep -v system
+adb shell pm list packages -f|grep -v system
+adb uninstall com.example.android.softkeyboard
+adb shell pm list packages -f|grep -v system
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/'
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*-(.*)/$1/'
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*-(.*)/$1/ and print'
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstll 
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+adb logcat 
+adb logcat -c
+adb logcat 
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+adb logcat 
+adb logcat -c
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+history 
+keytool -exportcert -keystore renta_key  -list -v
+history 
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+cd "D:\efi\back_f\my_project\android\svn_repository\trunk\renta_drive\app"
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+ls *.apk
+adb install *.apk
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+ls *.apk
+adb install *.apk
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+adb install *.apk
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+adb install *.apk
+ls *key*
+cd ..
+ls *key*
+keytool -printcert -v -file renta_key 
+cd "D:\efi\back_f\my_project\android\svn_repository\trunk\renta_drive\app"
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+ls *.apk
+adb install app-debug.apk 
+history 
+keytool -exportcert -keystore renta_key  -list -v
+keytool -exportcert -keystore renta_key  -list -v ../renta_key_d 
+keytool -exportcert -keystore renta  -list -v ../renta_key_d 
+cd ..
+keytool -exportcert -keystore renta  -list -v ../renta_key_
+keytool -exportcert -keystore renta  -list -v ../renta_key
+keytool -exportcert -keystore renta  -list -v renta_key
+history | grep renta_key
+keytool -exportcert -keystore renta_key  -list -v
+keytool -exportcert -keystore renta_key_d  -list -v
+adb shell pm list packages -f|grep -v system|perl -ne 's/.*=(.*)/$1/ and print'|xargs -L 1 adb uninstall 
+history 
+history --help
+history -s
+history 
+history |grep -a -P "\s.*"
+history |grep -o -P "\s.*"
+history |grep -o -P "\D.*"
+history |grep -o -P "\d.*"
+history |grep -o -P "\S.*"
+history |grep -o -P "[a-z].*"
+history |grep -o -P "[a-z].*"|uniq.exe 
+history |grep -o -P "[a-z].*"|uniq.exe  > hist1
+history |grep -o -P "[a-z].*"|uniq.exe  > hist1.txt

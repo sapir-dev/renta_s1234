@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_0_0_ago" formatted="false">%s %s ago</string>
+    <string name="_0_bill_not_paid_close_it_or_update_debt" formatted="false">%s bill was not paid. close it or update the debt.</string>
+    <string name="_0_finished_contract" formatted="false">%s end contract</string>
+    <string name="_0_new_reminders" formatted="false">%s new reminders</string>
+    <string name="_0_not_in_cur_bill" formatted="false">Payment %s not now</string>
+    <string name="_0_not_to_pay" formatted="false">%s not for payment</string>
+    <string name="_0_post_to_0" formatted="false">%s rejected to %s</string>
+    <string name="_0_postponed" formatted="false">%s rejected</string>
+    <string name="_0_precede" formatted="false">%s brought forward</string>
+    <string name="_o_pending_deposit_check_0_days" formatted="false">%s:waiting to deposit a check%s.</string>
+    <string name="add" formatted="false">Add</string>
+    <string name="add_record" formatted="false">Add record</string>
+    <string name="add_to_cur_bill" formatted="false">Add to current bill</string>
+    <string name="advanced_payments" formatted="false">%s payment in advance</string>
+    <string name="alerts" formatted="false">Alerts</string>
+    <string name="alerts_appear_at__" formatted="false">Notifications will be shown at ..</string>
+    <string name="also_update_0_in_units" formatted="false">Also update %s rate in:</string>
+    <string name="amount_that_pay" formatted="false">Payout</string>
+    <string name="amount_to_pay" formatted="false">Total</string>
+    <string name="apartment" formatted="false">Apartment</string>
+    <string name="Apartment_empty" formatted="false">Empty apartment</string>
+    <string name="apartment_empty_0_days" formatted="false">The apartment is empty %s days</string>
+    <string name="apartment_name" formatted="false">Apartment\'s name</string>
+    <string name="apartments_max_free" formatted="false">More than %s apartments</string>
+    <string name="alerts_max_free" formatted="false">More than %s alert</string>
+    <string name="app_name" formatted="false" translatable="false">Renta</string>
+    <string name="are_you_shure_you_want_to_exit" formatted="false">Are you sure you want to exit?</string>
+
+    <string name="save_changes_dialog2" formatted="false">Do you want to save changes?</string>
+
+    <string name="auto_update_from_0_to_0" formatted="false">Automatic update %s (%s)</string>
+    <string name="backup" formatted="false">Backup</string>
+    <string name="backup_by" formatted="false">Backup by ..</string>
+    <string name="backup_email_budy" formatted="false">Can be recovered by opening the attached file</string>
+    <string name="bacup_email_title" formatted="false">%s backup:</string>
+    <string name="balance" formatted="false">Balance</string>
+    <string name="before_0_days" formatted="false">%s day ago</string>
+    <string name="bill_of_0" formatted="false">%s bill\n(%s for %s)</string>
+    <string name="call_to_0" formatted="false">Call to %s.</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="alert_canceled" formatted="false">Alert canceled</string>
+    <string name="cant_save_changes_read_only" formatted="false">Can not keep changes , Opened in read-only</string>
+    <string name="are_you_sure" formatted="false">Are you sure?</string>
+    <string name="check" formatted="false">Check</string>
+    <string name="check1" formatted="false">Check-</string>
+    <string name="check2" formatted="false">(Check)</string>
+    <string name="choose__" formatted="false">Choose…</string>
+    <string name="chose_currency_title" formatted="false">Choose currency</string>
+    <string name="chose_date_title" formatted="false">Select date</string>
+    <string name="clear" formatted="false">Reset</string>
+    <string name="comment" formatted="false">Comments</string>
+    <string name="contact_us" formatted="false">Contact us</string>
+    <string name="contact_us_email_budy" formatted="false">Problems\\Questions\\bugs\\requests ..</string>
+    <string name="counter" formatted="false">Meter</string>
+    <string name="counter_0_out_of_date_cant_end_contract" formatted="false">%s not updated meter\n impossible to close a contract</string>
+    <string name="counter_not_updated_to_tenant" formatted="false">Outdated meter reading</string>
+    <string name="counters" formatted="false">Meters</string>
+    <string name="curent_0" formatted="false">Current (%s)</string>
+    <string name="curent_date" formatted="false">Current date</string>
+    <string name="currency" formatted="false">Currency</string>
+    <string name="date" formatted="false">Date</string>
+    <string name="date_update" formatted="false">Last update date</string>
+    <string name="date2" formatted="false">Date…</string>
+    <string name="dayly_alert" formatted="false">Daily alert</string>
+    <string name="days" formatted="false">Days</string>
+    <string name="days1" formatted="false">(%s days)</string>
+    <string name="days2" formatted="false">%s days</string>
+    <string name="debt" formatted="false">Debt</string>
+    <string name="debt_0_of_0" formatted="false">There is %s of %s</string>
+    <string name="del" formatted="false">Delete</string>
+    <string name="del_all_after_date" formatted="false">Delete all after the date</string>
+    <string name="del_all_befor_date" formatted="false">Delete all before the date</string>
+    <string name="del_this_date" formatted="false">Delete only this date</string>
+    <string name="demo" formatted="false">Demo</string>
+    <string name="deposit_check_of_0" formatted="false">Depositing %s\'s check.\n(%s..%s)</string>
+    <string name="details" formatted="false">Details</string>
+    <string name="divided_apartment" formatted="false">Divided apartment</string>
+    <string name="edit" formatted="false">Edit</string>
+    <string name="edit1" formatted="false">%s(editing)</string>
+    <string name="elect" formatted="false">Electric</string>
+    <string name="elect_cnt" formatted="false">Electric-meter</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="empty" formatted="false">Empty</string>
+    <string name="end_contract" formatted="false">Ending tenancy agreement</string>
+    <string name="end_contract_with_0" formatted="false">Finish with %s</string>
+    <string name="end_of_contract_alert1" formatted="false">Contract with %s ending..</string>
+    <string name="ending" formatted="false">End</string>
+    <string name="enter_again" formatted="false">Enter again</string>
+    <string name="enter_name" formatted="false">Enter Name/Address</string>
+    <string name="enter_password" formatted="false">Enter password</string>
+    <string name="every_0_in_month" formatted="false">Every %sth of the month</string>
+    <string name="every_0month_in_0" formatted="false">Every %s months on the %sth</string>
+    <string name="every_2month_in_0" formatted="false">Every two months on the %sth</string>
+    <string name="exit" formatted="false">Exit</string>
+    <string name="find" formatted="false">Find</string>
+    <string name="history" formatted="false">History</string>
+    <string name="hours" formatted="false">Hours</string>
+    <string name="ignor" formatted="false">Ignore</string>
+    <string name="illegal_date" formatted="false">%s Invalid date</string>
+    <string name="illegal_password" formatted="false">Illegal password</string>
+    <string name="in_0_0_time" formatted="false">In %s %s</string>
+    <string name="in_0_days" formatted="false">In %s days</string>
+    <string name="in_0_days_to_next_bill" formatted="false">%s days to next payment.</string>
+    <string name="include_counters" formatted="false">Including meters</string>
+    <string name="invalid_value" formatted="false">Invalid value</string>
+    <string name="irrelevant" formatted="false">Irrelevant</string>
+    <string name="its_ok" formatted="false">It is OK</string>
+    <string name="language" formatted="false">Language</string>
+    <string name="last_update" formatted="false">Last update</string>
+    <string name="load" formatted="false">Loading</string>
+    <string name="log" formatted="false">Records</string>
+    <string name="main" formatted="false">Home</string>
+    <string name="measur" formatted="false">-Measured-</string>
+    <string name="message_amant_0_send_at_0" formatted="false">(message was sent %s at %s)</string>
+    <string name="monthly" formatted="false">Monthly</string>
+    <string name="monthly_payment__" formatted="false">Monthly payment..</string>
+    <string name="months_in_advance" formatted="false">%s months in advance(%s)</string>
+    <string name="more_0_checkes" formatted="false">Remained %s checks</string>
+    <string name="n_month" formatted="false">%s months</string>
+    <string name="new_alert" formatted="false">Add new alert</string>
+    <string name="create_new_db" formatted="false">Create a new database.</string>
+    <string name="new_reminder" formatted="false">New reminder</string>
+    <string name="new_tenant" formatted="false">New tenant</string>
+    <string name="new_tenant1" formatted="false">--New tenant--</string>
+    <string name="new1" formatted="false">New</string>
+    <string name="next" formatted="false">Next</string>
+    <string name="next_0_payment_be_at_0" formatted="false">Next %s payment should be %s</string>
+    <string name="next_alert" formatted="false">Next alert:</string>
+    <string name="next_bill_0" formatted="false">Next payment:%s</string>
+    <string name="next_pay" formatted="false">Next payment</string>
+    <string name="next_payment_0" formatted="false">Next payment %s</string>
+    <string name="next_payment_not_updated" formatted="false">Next payment is not updated</string>
+    <string name="No" formatted="false">No</string>
+    <string name="no_debt" formatted="false">No debt</string>
+    <string name="no_payment" formatted="false">Not for payment</string>
+    <string name="not_found1" formatted="false">(not found)</string>
+    <string name="not_found" formatted="false">Not found</string>
+    <string name="not_in_cur_bill" formatted="false">Not in current bill</string>
+    <string name="not_pro_title" formatted="false">%s\nSupported only in Pro version.</string>
+    <string name="not_updated" formatted="false">Not updated</string>
+    <string name="now" formatted="false">Now</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="only_this_date" formatted="false">Leave only this date</string>
+    <string name="orig_0" formatted="false">Original(%s)</string>
+    <string name="password" formatted="false">Password</string>
+    <string name="pay_by_check_opt" formatted="false">%s check was deposited.\n(%s for %s)</string>
+    <string name="pay_by_check_opt_for" formatted="false">%s for %s</string>
+    <string name="pay_delayed_0_days" formatted="false">Payment is delayed by a few days %s</string>
+    <string name="pay_different_amount" formatted="false">Paid different Amount</string>
+    <string name="payed_0" formatted="false">%s paid</string>
+    <string name="payed_0_on_0" formatted="false">Paid %s for %s</string>
+    <string name="payed1" formatted="false">paid</string>
+    <string name="payment" formatted="false">Payment</string>
+    <string name="payment_0" formatted="false">%s payment</string>
+    <string name="payment_0_done_at_0" formatted="false">*paid %s in %s.</string>
+    <string name="payment_checks_in_advance" formatted="false">Payment by post-dated checks</string>
+    <string name="payments" formatted="false">Payments</string>
+    <string name="pays" formatted="false">Pays</string>
+    <string name="period1" formatted="false">Period:</string>
+    <string name="post_3_hours" formatted="false">Remind me in 3 hours</string>
+    <string name="post_pay_0_to_next_month" formatted="false">Reject %s payment for next month</string>
+    <string name="post_to_next_bill" formatted="false">Rejection for next bill</string>
+    <string name="post_tomorrow" formatted="false">Remind me tomorrow</string>
+    <string name="post_week" formatted="false">Reject in one week</string>
+    <string name="postponed_to__" formatted="false">Postpone to later date …</string>
+    <string name="postponed_to_0__" formatted="false">Postpone to day..</string>
+    <string name="postponed2_to_0" formatted="false">Postpone to %s</string>
+    <string name="pre_bill" formatted="false">Pre the bill</string>
+    <string name="pre_to_cur_bill" formatted="false">Precedent to current payment</string>
+    <string name="premium_upgrade" formatted="false">Premium Upgrade</string>
+    <string name="prev" formatted="false">Previous</string>
+    <string name="prev_pay" formatted="false">Previous payment</string>
+    <string name="prev_payment_0" formatted="false">(previous payment:%s)</string>
+    <string name="prev_tenants_in_0" formatted="false">Previous tenants</string>
+    <string name="previous_payment_was_0" formatted="false">Previous %s bill was in %s</string>
+    <string name="previous_tenants" formatted="false">Previous tenants</string>
+    <string name="price" formatted="false">Price</string>
+    <string name="prop_tax" formatted="false">Property tax</string>
+    <string name="rate_price" formatted="false">Rate/price</string>
+    <string name="reminder1_0" formatted="false">Reminder (%s)</string>
+    <string name="remove_0" formatted="false">Remove %s</string>
+    <string name="rent" formatted="false">Rent</string>
+    <string name="renta_suport_subject_email_budy" formatted="false">Renta support</string>
+    <string name="rental_not_updated" formatted="false">Rent is not updated</string>
+    <string name="restor1_0" formatted="false">(restore %s)</string>
+    <string name="restore" formatted="false">Restore</string>
+    <string name="restore_dialog_title" formatted="false">Recovery:</string>
+    <string name="retroactive_update" formatted="false">You can make a retroactive update\ntill last update:%s</string>
+    <string name="round" formatted="false">Rounded</string>
+    <string name="save_befor_restart_title" formatted="false"> Changes you made will be lost, are you sure?</string>
+    <string name="select_email_app" formatted="false">Send by:</string>
+    <string name="send_bill" formatted="false">Sent bill</string>
+    <string name="send_message_to_0" formatted="false">Send message to %s.</string>
+    <string name="send_sms_limit_title" formatted="false">Limited sending messages to %s</string>
+    <string name="setting" formatted="false">Settings</string>
+    <string name="single_check" formatted="false">Single check</string>
+    <string name="standard_apartment" formatted="false">Standard apartment</string>
+    <string name="start" formatted="false">Beginning</string>
+    <string name="start_contract" formatted="false">Starting tenancy agreement</string>
+    <string name="start_demo_dialog" formatted="false">
+        The data presented in the application are for Illustration only...
+    </string>
+    <string name="status" formatted="false">Status</string>
+    <string name="tariff" formatted="false">Rate</string>
+    <string name="tenant" formatted="false">Tenant</string>
+    <string name="tenant1" formatted="false">Tenant:</string>
+    <string name="termination_should_be_in_0" formatted="false">End of contract should be on %s</string>
+    <string name="the_next_payment___" formatted="false">Next payment …</string>
+    <string name="the_prev_payment___" formatted="false">Previous payment …</string>
+    <string name="today" formatted="false">Today</string>
+    <string name="total" formatted="false">Total</string>
+    <string name="total_0_filles_will_delete_are_you_sure" formatted="false">%s Files will be erased.\nare you sure ?</string>
+    <string name="total_0_months" formatted="false">Total %s months</string>
+    <string name="undo_action" formatted="false">Undo</string>
+    <string name="unit" formatted="false">Unit</string>
+    <string name="unit1" formatted="false">Studio</string>
+    <string name="units" formatted="false">Units</string>
+    <string name="update" formatted="false">Update</string>
+    <string name="update_a_new_tenant" formatted="false">Update new tenant</string>
+    <string name="update_counter_0" formatted="false">Update %s meter </string>
+    <string name="update_date" formatted="false">Update date</string>
+    <string name="update_date_alerts_of__" formatted="false">Update the notification..</string>
+    <string name="update_date1" formatted="false">Update date</string>
+    <string name="update_debt_balance" formatted="false">Update balance/debt</string>
+    <string name="update_log" formatted="false">Update diary</string>
+    <string name="update_tenants" formatted="false">Editing tenants</string>
+    <string name="version" formatted="false">Version</string>
+    <string name="view_only" formatted="false">View only</string>
+    <string name="wait__" formatted="false">Please wait …</string>
+    <string name="restart_wait" formatted="false">Restart, please wait …</string>
+    <string name="wait_for_deposit" formatted="false">Waiting for deposit</string>
+    <string name="wait_for_deposit_0_days" formatted="false">Waiting for deposit..(%s).</string>
+    <string name="wait_for_pay" formatted="false">Waiting for payment</string>
+    <string name="wait_for_pay_0_days" formatted="false">Waiting for payment..(%s)</string>
+    <string name="wait_for_update_or_post_0" formatted="false">%s:Waiting to update meter or deferral bill</string>
+    <string name="warehouse" formatted="false">Warehouse</string>
+    <string name="water" formatted="false">Water</string>
+    <string name="water_cnt" formatted="false">Water-meter</string>
+    <string name="without" formatted="false">Without</string>
+    <string name="written_contract" formatted="false">Contract was written</string>
+    <string name="yes" formatted="false">Yes</string>
+    <string name="reset_alerts_to_default">Reset alerts to default ?</string>
+    <string name="set_default">default</string>
+    <string name="hi_ten">Hi %s</string>
+    <string name="counter_0_is_updated">%s meter is updated</string>
+    <string name="names_order">
+yoram
+david
+avraham
+omer
+itzhak
+yakov
+    </string>
+    <string name="payment_or_deposit">Payment/Deposit</string>
+    <string name="update_o_to_o" formatted="false" >Update %s to %s</string>
+    <string name="please_update_your_app">Please update your app</string>
+    <string name="not_now">Not now</string>
+    <string name="use_long_click_msg">Use long click..</string>
+    <string name="share">Share</string>
+    <string name="generic_share_header" translatable="false">generic share header</string>
+    <string name="generic_share" translatable="false">generic share</string>
+    <string name="cannot_run_without_permissions">Can\'t run without permissions</string>
+    <string name="del_all">delete all</string>
+    <string name="minutes">minutes</string>
+    <string name="how_to_start_title">Welcome,
+\n
+How do you want to start?
+</string>
+    <string name="sample_database1">Sample Database</string>
+    <string name="show_demo">View demo.</string>
+    <string name="apprtment_shown">Apartment displayed</string>
+    <string name="hide">Hidden apartment</string>
+    <string name="del_0">Delete %s ?</string>
+    <string name="send_sms_to_0">Send SMS to %s</string>
+    <string name="update_next_date">Update next date.</string>
+    <string name="property">Property</string>
+    <string name="about">About</string>
+    <string name="show_demo_movie">Watch tutorial video</string>
+    <string name="contact_not_found">%s not found</string>
+    <string name="postponed_to_hour">Today at ..</string>
+    <string name="change_counter_0">Change %s meter</string>
+    <string name="illegal_value">Illegal value</string>
+    <string name="save">Save</string>
+    <string name="in_app_purchases_error">Unable to make in-app purchases,check your network or contact us...</string>
+    <string name="auto_save_on_exit">Auto save on exit</string>
+    <string name="end_edit">Finish Edit</string>
+    <string name="no_changes_goto_history">No changes was made...\nYou can view and restore previously saved revisions from history page.</string>
+    <string name="secondary_cnt">Secondary</string>
+    <string name="main_cnt">Main</string>
+    <string name="is_auto_cnt">Auto</string>
+    <string name="auto_cnt_msg">Automatic updating performed when there is no Counter (physical),and it calculated by difference(external-internal)</string>
+    <string name="just_one_auto_unit_msg" formatted="false">only one unit can have automatic counter(%s alreday set)</string>
+    <string name="are_you_sure_delete_all_cnt" formatted="false">All records of %s in %s will be deleted,are you sure ?</string>
+    <string name="illegal_auto_cnt" formatted="false">(Illegal auto counter %s )</string>
+    <string name="last_updated">Updated</string>
+    <string name="water_cnts">Water-meters</string>
+    <string name="elect_cnts">Electric-meters</string>
+    <string name="should_update_auto_not_manual">Its automatic counter</string>
+    <string name="long_press_on_text_field">Long press on any text field</string>
+    <string name="diff_cnt_txt">Diff</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="set_nickname_for">Choose nickname for</string>
+    <string name="make_conntact_with" formatted="false">Make contact with %s</string>
+    <string name="show_gen_edit_btn">Show edit button</string>
+    <string name="edit_btn">Edit Button</string>
+    <string name="rmv_gen_edit_popup_txt">You can edit also from the menu</string>
+    <string name="add_units">Add units</string>
+    <string name="undef_status">Undefined</string>
+    <string name="contract_with_0">Show contract with %s</string>
+    <string name="calendar">Calendar</string>
+    <string name="goto_google_play">Google Play</string>
+    <string name="postponed_to_date_time">Postpone to later date/time …</string>
+    <string name="end_of_contract_alert0">Lease renewal with %s...</string>
+    <string name="backup_recovery">Backup/Recovery</string>
+    <string name="backup_once_by_email">Backup once by E-mail</string>
+    <string name="auto_backup_google_drive_on">Auto backup Turn-on</string>
+    <string name="auto_backup_google_drive_off">Auto backup Turn-off</string>
+    <string name="recovery_">Recovery</string>
+    <string name="recovery_from_google_drive_">Recovery(Google-Drive)</string>
+    <string name="no_data_to_recover">No data to recover</string>
+    <string name="not_connected">You are not connected</string>
+    <string name="en_google_drive_backup_title">Do you want to use Google Drive to backup your data?</string>
+    <string name="change_google_account">Change account</string>
+    <string name="stop_this_progress">Stop this progress ?</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="check_connection">Check connection</string>
+    <string name="file_already_exists_locally">File already exists locally</string>
+    <string name="save_to_google_drive">Save to Google-Drive</string>
+    <string name="all">All</string>
+    <string name="new_user">New User</string>
+
+    <string name="SMS">SMS</string>
+    <string name="WhatsApp">WhatsApp</string>
+    <string name="tenants">Tenants</string>
+    <string name="add_unit">Add Unit</string>
+    <string name="unit_name">Unit Name</string>
+    <string name="imojie">Imojie</string>
+    <string name="contacts">Contacts</string>
+    <string name="storage">Storage</string>
+    <string name="permissions">Permissions</string>
+    <string name="copy">Copy</string>
+    <string name="post_month">Postpone by one month</string>
+    <string name="last_game_befor_you_go">Do you want to see last demo before you uninstall ?</string>
+    <string name="add_new_apartment">Add apartments</string>
+    <string name="add_and_save">
+Add another
+\napartment or save
+    </string>
+    <string name="update_apartment">Update apartment</string>
+    <string name="restart">Restart</string>
+    <string name="setting_allow_anim">Animations</string>
+    <string name="last_on_back_msg">Click again to exit</string>
+    <string name="help_renta_dlog">You can help prmote %s</string>
+    <string name="help_rate_us">Rate us 5 stars</string>
+    <string name="debt_alert">Alert over debt</string>
+    <string name="wait_for_debt">Waiting for debt payment</string>
+    <string name="date_format">Date format</string>
+    <string name="add_phone_numer">Add phone number</string>
+    <string name="phone_or_name">Phone/Name</string>
+    <string name="existing_user">Existing User</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="call">Call</string>
+    <string name="local_setting">Local</string>
+    <string name="general">General</string>
+    <string name="data">Data</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="update_hide_meters">Hide meters</string>
+    <string name="update_show_meters">Show meters</string>
+    <string name="notif_shortcat_toast_msg">Show always an app icon in the status bar</string>
+    <string name="shortcut">Shortcuts</string>
+    <string name="en_notif_shortcut">Show in status bar</string>
+    <string name="sort_up_ascending">Ascending</string>
+    <string name="sort_down_descending">Descending</string>
+    <string name="nickname">Nickname</string>
+    <string name="contact">Contact</string>
+    <string name="premium_upgrade0">Premium</string>
+    <string name="pro_try">Try</string>
+    <string name="last_check">Last check</string>
+    <string name="lease_renewal_alert">Lease renewal alert</string>
+    <string name="end_of_contract_alert">Lease termination alert</string>
+    <string name="payment_sound_effect">Payment sound effect</string>
+    <string name="lease_renewal_alert_info">Month before lease ends</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="last_counter_payment_before_new" formatted="false" >The last %s payment was made in %s</string>
+    <string name="counter_restarted">%s restarted</string>
+    <string name="stop">Stop</string>
+    <string name="not_installed">%s not installed</string>
+    <string name="ext_storage_location">Storage location</string>
+    <string name="sd_card">SD card</string>
+    <string name="intrenal_storage">Internal storage</string>
+    <string name="reports">Reports</string>
+    <string name="average_income">Average income</string>
+    <string name="add_income">Add income</string>
+    <string name="add_expense">Add expense</string>
+    <string name="post_2month">Postpone by two months</string>
+    <string name="revenue">Revenue</string>
+    <string name="expenses">Expenses</string>
+    <string name="month0">Starting month</string>
+    <string name="month1">Until month</string>
+    <string name="also_add_0_on">Also add %s on</string>
+    <string name="filter">Filter</string>
+    <string name="remove_tenant_history">Remove tenants history</string>
+    <string name="delete_report_from">Delete report from..</string>
+
+</resources>

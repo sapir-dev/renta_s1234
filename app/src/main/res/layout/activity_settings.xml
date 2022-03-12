@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_setting_ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- for scrolling -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <!-- main layout tag-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="50dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+                <!-- setion title red-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        style="@style/setting_group_title"
+                        android:text="@string/local_setting" />
+
+
+                    <!-- option section -->
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_lang_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/language" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="@string/language" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_date_frmt_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/date_format" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="10-11-12" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_currency_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/currency" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="$" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+            <!-- option section -->
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+                <!-- setion title red-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        style="@style/setting_group_title"
+                        android:text="@string/general" />
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_pwd_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/password" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="@string/password" />
+
+                    </LinearLayout>
+                    <RelativeLayout
+                        android:id="@+id/setting_gen_edit_btn_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/show_gen_edit_btn" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="@string/rmv_gen_edit_popup_txt" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/setting_en_notif_shortcut_ll"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/en_notif_shortcut" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/setting_en_payment_sound_effect_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/payment_sound_effect" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/setting_allow_anim_lr"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/setting_allow_anim" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+                <!-- setion title red-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        style="@style/setting_group_title"
+                        android:text="@string/alerts" />
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_dayly_alert_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/dayly_alert" />
+
+                        <TextView
+                            android:id="@+id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="" />
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/setting_en_debt_alert_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/debt_alert" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/setting_en_lease_renewal_alert_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/lease_renewal_alert" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="@string/lease_renewal_alert_info" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/setting_en_end_of_contract_alert_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/end_of_contract_alert" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+                <!-- setion title red-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        style="@style/setting_group_title"
+                        android:text="@string/data" />
+
+                    <RelativeLayout
+                        android:id="@+id/setting_use_ext_storage_location_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/ext_storage_location" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_new_db_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/create_new_db" />
+
+                        <TextView
+                            android:id="@+id/setting_set_new_db_info"
+                            style="@style/setting_var_info"
+                            android:text="" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_backup_recovery_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/backup_recovery" />
+
+                        <TextView
+                            android:id="@+id/setting_set_backup_recovery_info"
+                            style="@style/setting_var_info"
+                            android:text="" />
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/setting_auto_save_on_exit_rl"
+                        style="@style/setting_var_rl">
+
+                        <LinearLayout style="@style/setting_var_txt_ll">
+
+                            <TextView
+                                style="@style/setting_var_val"
+                                android:text="@string/auto_save_on_exit" />
+
+                            <TextView
+                                android:id="@id/setting_info_tv"
+                                style="@style/setting_var_info"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <LinearLayout style="@style/setting_cb_ll">
+
+                            <CheckBox
+                                android:id="@+id/setting_cb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+                <!-- setion title red-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        style="@style/setting_group_title"
+                        android:text="@string/about" />
+
+
+                    <!-- option section -->
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_premium_upgrade_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/premium_upgrade" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="@string/premium_upgrade" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_share_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/share" />
+
+                        <TextView
+                            android:id="@+id/setting_set_share_info"
+                            style="@style/setting_var_info"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_contact_us_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/contact_us" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_goto_google_play_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/goto_google_play" />
+
+                        <TextView
+                            android:id="@+id/setting_set_goto_google_play_info"
+                            style="@style/setting_var_info"
+                            android:text="@string/help_rate_us" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_show_demo_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/show_demo" />
+
+                        <TextView
+                            android:id="@+id/setting_set_show_demo_info"
+                            style="@style/setting_var_info"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_set_show_demo_movie_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/show_demo_movie" />
+
+                        <TextView
+                            android:id="@+id/setting_set_show_demo_movie_info"
+                            style="@style/setting_var_info"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/setting_info_ll"
+                        style="@style/setting_var_class">
+
+                        <TextView
+                            style="@style/setting_var_val"
+                            android:text="@string/version" />
+
+                        <TextView
+                            android:id="@id/setting_info_tv"
+                            style="@style/setting_var_info"
+                            android:text="@string/language" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

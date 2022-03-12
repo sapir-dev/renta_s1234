@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="1">
+    <include layout="@layout/mydiv"/>
+    <ListView
+        android:id="@+id/log_list_view"
+        style="@style/list_view_style"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/checkBoxll"
+        />
+
+    <include layout="@layout/mydiv"/>
+
+    <LinearLayout
+        android:id="@+id/checkBoxll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/checkBoxl2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/inc_counters_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:gravity="center"
+                android:text="@string/counters"></CheckBox>
+
+            <CheckBox
+                android:id="@+id/inc_pyment_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:gravity="center"
+                android:text="@string/payments"></CheckBox>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

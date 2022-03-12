@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+    <ListView
+        style="@style/list_view_style"
+        android:id="@+id/connect_tenants_lv"
+        android:layout_height="372dp"
+        android:layout_weight="70" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="30"
+        android:layout_height="0dp"
+        android:gravity="center_vertical|center_horizontal">
+        <CheckBox
+            android:text="@string/all"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/all_connect_tenants_cb" />
+
+    </LinearLayout>
+
+</LinearLayout>

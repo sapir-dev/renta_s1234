@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="100"
+              android:gravity="center">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:gravity="center"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:gravity="center">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="4"
+                android:gravity="center"
+                >
+
+                <com.eodmmys.renta.AutoResizeTextView
+                    android:layout_width="match_parent"
+                    android:text="next pay"
+                    android:id="@+id/next_pay_date_tv"
+                    android:gravity="center"
+                    android:textColor="@color/main_green"
+                    android:layout_height="match_parent"
+                    android:textSize="600sp"
+                    android:textStyle="bold"
+                    android:minLines="1"
+                    android:maxLines="1"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:gravity="center"
+        >
+        <include layout="@layout/mydiv"/>
+        <ListView
+            android:id="@+id/bills_list_view"
+            style="@style/list_view_style"
+            />
+        <include layout="@layout/mydiv"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:text="@string/update_debt_balance"
+                  android:id="@+id/debt_info_tv">
+
+        </TextView>
+    </LinearLayout>
+
+
+    <com.eodmmys.renta.AutoResizeTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="30"
+        android:text="@string/total"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/calc_bill_txt"
+        android:gravity="top"/>
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:gravity="center_vertical">
+
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="vertical"
+                      android:layout_toLeftOf="@+id/payment_btn"
+                      android:layout_alignParentLeft="true"
+                      android:layout_alignParentStart="true"
+                      android:layout_alignParentBottom="true"
+                      android:layout_alignParentTop="true"
+                      >
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/details"
+                android:id="@+id/show_detailed_cb"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <ImageView
+            android:background="@drawable/buttun_background_color"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/payment_btn"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/payment7"/>
+
+        <LinearLayout                 android:layout_width="wrap_content"
+                                      android:layout_height="match_parent"
+                                      android:layout_alignParentTop="true"
+                                      android:layout_toRightOf="@+id/payment_btn"
+                                      android:layout_alignParentRight="true"
+                                      android:layout_alignParentEnd="true"
+                                      android:gravity="center"
+                                      >
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/round"
+            android:id="@+id/round_cb"
+            android:gravity="center"
+            />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

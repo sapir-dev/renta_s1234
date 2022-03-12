@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadius="0dp"
+    android:shape="oval"
+    android:thicknessRatio="2"
+    android:useLevel="false">
+
+    <gradient
+        android:angle="135"
+        android:centerColor="@color/buttun_background_center_color"
+        android:endColor   ="@color/buttun_background_end_color"
+        android:startColor ="@color/buttun_background_start_color"
+        android:type="linear"
+        />
+</shape>

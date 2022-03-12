@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:weightSum="100"
+              android:layout_height="match_parent"
+              android:gravity="center"
+    >
+
+    <!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:text="@string/update_date"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/info_tv"
+        android:gravity="center"/>
+-->
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_weight="90"
+        android:layout_height="0dp"
+
+        android:id="@+id/datePicker"
+        />
+<!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_weight="70"
+        android:layout_height="0dp"
+
+        android:text="SUNDAY"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/day_of_the_week"
+        android:gravity="center"
+        android:visibility="gone"
+        android:padding="5dp" />
+-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+
+        android:id="@+id/buttons_ll"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/cancel_btn"
+            android:text="@string/cancel"
+            style="@style/my_dialog_btn" />
+        <Button
+            android:text="@string/clear"
+            android:id="@+id/clr_btn"
+            style="@style/my_dialog_btn" />
+        <Button
+            android:text="@string/today"
+            android:id="@+id/today_btn"
+            style="@style/my_dialog_btn" />
+        <Button
+            android:text="@string/ok"
+            android:id="@+id/ok_btn"
+            style="@style/my_dialog_btn" />
+    </LinearLayout>
+</LinearLayout>

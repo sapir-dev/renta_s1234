@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+              android:layout_width="match_parent"
+              android:layout_height='fill_parent'
+              android:orientation='vertical'
+              android:padding='0sp'
+              android:gravity="center">
+
+    <TextView
+        android:id='@+id/cur_counter_date'
+        android:layout_width="wrap_content"
+        android:layout_height='wrap_content'
+        android:hint='date'
+        android:textSize="20sp"
+        android:singleLine='true'
+        android:gravity="center"
+        android:layout_gravity="center">
+    </TextView>
+
+    <EditText
+        android:id='@+id/cur_counter_val'
+        android:layout_width="wrap_content"
+        android:layout_height='wrap_content'
+        android:textSize="20sp"
+        android:hint='@string/counter'
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:inputType="phone|number">
+        <requestFocus/>
+    </EditText>
+    <!---AAA-->
+    <LinearLayout
+        android:id='@+id/update_cur_counter_ll'
+        android:layout_width="match_parent"
+        android:layout_height='wrap_content'
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:weightSum="3">
+
+        <Button
+            android:id='@+id/update_cur_counter_cancel'
+            android:text="@string/cancel"
+            style="@style/my_dialog_btn"
+            />
+        <Button
+            android:id='@+id/update_cur_counter_del'
+            android:text="@string/del"
+            style="@style/my_dialog_btn"
+            />
+
+        <Button
+            android:id='@+id/update_cur_counter_ok'
+            android:text="@string/ok"
+            style="@style/my_dialog_btn"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

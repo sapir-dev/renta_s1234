@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="elect">חשמל</string>
+    <string name="water">מים</string>
+    <string name="elect_cnt">מונה-חשמל</string>
+    <string name="water_cnt">מונה-מים</string>
+    <string name="debt">חוב</string>
+    <string name="clear">איפוס</string>
+    <string name="measur">-מדידה-</string>
+    <string name="balance">יתרה</string>
+    <string name="cancel">ביטול</string>
+    <string name="update_debt_balance">עדכן חוב/יתרה</string>
+    <string name="prev_pay">תשלום קודם</string>
+    <string name="next_pay">תשלום הבא</string>
+    <string name="setting">הגדרות</string>
+    <string name="undo_action">בטל שינויים</string>
+    <string name="exit">יציאה</string>
+    <string name="new_tenant">דייר חדש</string>
+    <string name="new1">חדש</string>
+    <string name="enter_password">הכנס סיסמא</string>
+    <string name="password">סיסמא</string>
+    <string name="ok">אישור</string>
+    <string name="enter_again">הכנס שוב</string>
+    <string name="without">ללא</string>
+    <string name="apartment">דירה</string>
+    <string name="tenant">דייר</string>
+    <string name="counters">מונים</string>
+    <string name="history">היסטוריה</string>
+    <string name="main">ראשי</string>
+    <string name="units">יחידות</string>
+    <string name="alerts">התראות</string>
+    <string name="log">יומן</string>
+    <string name="pays">משלם</string>
+    <string name="restore">שחזר</string>
+    <string name="view_only">צפייה בלבד</string>
+    <string name="only_this_date">השאר תאריך זה בלבד</string>
+    <string name="del_this_date">מחק תאריך זה בלבד</string>
+    <string name="del_all_befor_date">מחק הכל לפני התאריך</string>
+    <string name="del_all_after_date">מחק הכל אחרי התאריך</string>
+    <string name="illegal_password">סיסמא שגוייה</string>
+    <string name="postponed_to__">דחה לתאריך …</string>
+    <string name="postponed_to_date_time">דחה לתאריך/שעה …</string>
+    <string name="pay_different_amount">שולם סכום אחר</string>
+    <string name="send_bill">שלח חשבון</string>
+    <string name="pre_bill">הקדם חשבון</string>
+    <string name="add">הוסף</string>
+    <string name="find">חפש</string>
+    <string name="edit">עריכה</string>
+    <string name="post_3_hours">דחה בשלוש שעות</string>
+    <string name="post_tomorrow">דחה למחר</string>
+    <string name="post_week">דחה בשבוע</string>
+    <string name="ignor">התעלם</string>
+    <string name="del">מחק</string>
+    <string name="payment">תשלום</string>
+    <string name="version">גרסה</string>
+    <string name="last_update">עדכון אחרון</string>
+    <string name="curent_date">תאריך נוכחי</string>
+    <string name="dayly_alert">התראה יומית</string>
+    <string name="demo">דמו</string>
+    <string name="update">עדכון</string>
+    <string name="are_you_sure">אתה בטוח ?</string>
+    <string name="are_you_shure_you_want_to_exit">בטוח שאתה רוצה לצאת?</string>
+    <string name="update_date_alerts_of__">לעדכן תזכורת של ..</string>
+    <string name="save_changes_dialog2"> האם ברצונך לשמור את השינויים?</string>
+    <string name="today">היום</string>
+    <string name="days">ימים</string>
+    <string name="days1" formatted="false">(%s ימים)</string>
+    <string name="days2" formatted="false">%s ימים</string>
+    <string name="hours">שעות</string>
+    <string name="single_check">צק יחיד</string>
+    <string name="rent">שכירות</string>
+    <string name="prop_tax">ארנונה</string>
+    <string name="comment">הערות</string>
+    <string name="total">סהכ</string>
+    <string name="details">פירוט</string>
+    <string name="date">תאריך</string>
+    <string name="counter">מונה</string>
+    <string name="unit">יחידה</string>
+    <string name="standard_apartment">דירה רגילה</string>
+    <string name="divided_apartment">דירה מחולקת</string>
+    <string name="unit1">יחידת דיור</string>
+    <string name="warehouse">מחסן</string>
+    <string name="enter_name">הכנס שם/כתובת</string>
+    <string name="update_date">עדכון תאריך</string>
+    <string name="now">עכשיו</string>
+    <string name="no_payment">לא לתשלום</string>
+    <string name="amount_to_pay">סכום לתשלום</string>
+    <string name="not_updated">לא מעודכן</string>
+    <string name="tenant1">דייר:</string>
+    <string name="status">סטטוס</string>
+    <string name="apartment_name">שם הדירה</string>
+    <string name="rate_price">תעריף/מחיר</string>
+    <string name="payment_checks_in_advance">תשלום בצ\'קים מראש</string>
+    <string name="amount_that_pay">סכום משולם</string>
+    <string name="ending">סיום</string>
+    <string name="start">התחלה</string>
+    <string name="period1">תקופה:</string>
+    <string name="payments">תשלומים</string>
+    <string name="next">הבא</string>
+    <string name="prev">הקודם</string>
+    <string name="monthly">חודשי</string>
+    <string name="date2">תאריך....</string>
+    <string name="tariff">תעריף</string>
+    <string name="start_contract">תחילת חוזה</string>
+    <string name="end_contract">סיום חוזה</string>
+    <string name="previous_tenants">דיירים קודמים</string>
+    <string name="not_found1">(לא נמצא)</string>
+    <string name="not_found">לא נמצא</string>
+    <string name="new_tenant1">--דייר חדש --</string>
+    <string name="written_contract">נכתב חוזה</string>
+    <string name="update_a_new_tenant">עדכן דייר חדש</string>
+    <string name="update_tenants">עדכון דיירים</string>
+    <string name="no_debt">אין חוב</string>
+    <string name="alerts_appear_at__">התראות יופיעו בשעה ..</string>
+    <string name="yes">כן</string>
+    <string name="No">לא</string>
+    <string name="date_update">תאריך עדכון</string>
+    <string name="choose__">בחר…</string>
+    <string name="check1">צק-</string>
+    <string name="postponed_to_0__">דחה ליום …</string>
+    <string name="empty">ריקה</string>
+    <string name="Apartment_empty">הדירה ריקה</string>
+    <string name="invalid_value">ערך לא חוקי</string>
+    <string name="check">צ\'ק</string>
+    <string name="irrelevant">לא רלוונטי</string>
+    <string name="rental_not_updated">שכירות לא מעודכן</string>
+    <string name="counter_not_updated_to_tenant">מונה לא מעודכן לדייר</string>
+    <string name="next_payment_not_updated">תשלום הבא לא מעודכן</string>
+    <string name="the_prev_payment___">התשלום הקודם …</string>
+    <string name="the_next_payment___">התשלום הבא …</string>
+    <string name="monthly_payment__">תשלום חודשי ..</string>
+    <string name="payed1">שולם</string>
+    <string name="update_date1">עדכן תאריך</string>
+    <string name="update_log">עדכן יומן</string>
+    <string name="add_record">הוסף רשומה</string>
+    <string name="add_to_cur_bill">הוסף לחשבון נוכחי</string>
+    <string name="not_in_cur_bill">לא בחשבון הנוכחי</string>
+    <string name="post_to_next_bill">דחייה לחשבון הבא</string>
+    <string name="pre_to_cur_bill">הקדם לחשבון הנוכחי</string>
+    <string name="check2">(צק)</string>
+    <string name="new_reminder">תזכורת חדשה</string>
+
+    <!-- ################################################# -->
+    <string name="load">טוען</string>
+    <string name="wait__">אנא המתן …</string>
+    <string name="pay_by_check_opt" formatted="false">צק %s הופקד\n(%s עבור %s)</string>
+    <string name="pay_by_check_opt_for" formatted="false">%s עבור %s</string>
+    <string name="_0_post_to_0" formatted="false">
+        %s נדחה ל %s
+        <!--
+        שכירות נדחה ל 1-1-16
+        -->
+    </string>
+
+    <string name="message_amant_0_send_at_0" formatted="false">
+(נשלחה הודעה "%s" ב %s)
+        <!--
+        (נשלחה הודעה 3150  ב 23-12-15)
+        -->
+    </string>
+
+    <string name="payed_0_on_0" formatted="false">
+        שולם %s על %s
+        <!--
+שולם 3088 על מים/חשמל
+        -->
+    </string>
+
+    <string name="auto_update_from_0_to_0" formatted="false">
+    עדכון %s אוטומטית
+\n
+(%s)
+        <!--
+עדכון מונה מים אוטומטית מ 301 ל 397
+(מרתף ממד)
+        -->
+    </string>
+
+
+    <string name="payment_0_done_at_0" formatted="false">
+ *תשלום %s התבצע ב %s.
+        <!--
+*תשלום 804 התבצע ב 22-11-15
+ (לפני 33 ימים).
+        -->
+    </string>
+
+    <string name="in_0_days_to_next_bill" formatted="false">
+ *עוד %s ימים לתשלום הבא.
+        <!--
+*עוד 7 ימים לתשלום הבא.
+        -->
+    </string>
+
+    <string name="pay_delayed_0_days" formatted="false">
+ התשלום מתעכב ב %s ימים
+        <!--
+התשלום מתעכב ב 5 ימים
+        -->
+    </string>
+
+    <string name="_o_pending_deposit_check_0_days" formatted="false">
+        %s:ממתין להפקדת צק%s.
+        <!--
+שכירות:ממתין להפקדת צק(3 ימים).
+        -->
+    </string>
+
+    <string name="debt_0_of_0" formatted="false">
+        קיים %s של %s
+        <!--
+קיים חוב של 200
+        -->
+    </string>
+
+    <string name="apartment_empty_0_days" formatted="false">
+        הדירה ריקה %s ימים
+        <!--
+הדירה ריקה 23 ימים
+        -->
+    </string>
+
+    <string name="previous_payment_was_0" formatted="false">
+        תשלום %s קודם היה ב %s
+        <!--
+תשלום שכירות קודם היה ב 18-12-15 (לפני 7 ימים)
+        -->
+    </string>
+    <string name="next_0_payment_be_at_0" formatted="false">
+        תשלום %s הבא היה אמור להיות ב %s
+        <!--
+תשלום שכירות הבא היה אמור להיות ב 15-1-16 (עוד 21 ימים)
+        -->
+    </string>
+
+    <string name="update_counter_0" formatted="false">
+        עדכן מונה %s
+        <!--
+עדכן מונה מים
+        -->
+    </string>
+
+    <string name="end_contract_with_0" formatted="false">
+        סיים עם %s
+        <!--
+סיים חוזה עם דייר נדב
+        -->
+    </string>
+
+    <string name="payed_0" formatted="false">
+        שולם %s
+        <!--
+שולם 3150
+        -->
+    </string>
+
+
+    <string name="_0_not_to_pay" formatted="false">
+        %s לא לתשלום
+        <!--
+חשמל לא לתשלום
+        -->
+    </string>
+
+    <string name="also_update_0_in_units" formatted="false">
+        לעדכן תעריף %s גם ביחידות:
+        <!--
+לעדכן תעריף חשמל גם ביחידות:
+        -->
+    </string>
+
+    <string name="total_0_filles_will_delete_are_you_sure">
+סהכ ימחקו %s קבצים.
+\n
+אתה בטוח ?
+        <!--
+סהכ ימחקו 2 קבצים.
+ אתה בטוח ?
+        -->
+    </string>
+
+    <string name="in_0_days" formatted="false">
+        עוד %s ימים
+        <!--
+עוד 7 ימים
+        -->
+    </string>
+    <string name="before_0_days" formatted="false">
+        לפני %s ימים
+        <!--
+לפני 33 ימים
+        -->
+    </string>
+
+
+    <string name="more_0_checkes" formatted="false">
+        עוד %s צקים
+        <!--
+עוד 6 צקים
+        -->
+    </string>
+
+    <string name="prev_tenants_in_0" formatted="false">דיירים קודמים</string>
+
+
+    <string name="every_0month_in_0" formatted="false">
+        אחת ל%s חודשים ב%s
+        <!--
+דיירים קודמים במרתף חלון.
+        -->
+    </string>
+
+    <string name="every_2month_in_0" formatted="false">
+        כל חודשים ב%s
+        <!--
+דיירים קודמים במרתף חלון.
+        -->
+    </string>
+
+    <string name="every_0_in_month" formatted="false">
+        כל %s לחודש
+        <!--
+דיירים קודמים במרתף חלון.
+        -->
+    </string>
+
+    <string name="illegal_date" formatted="false">
+        תאריך %s לא חוקי
+        <!--
+תאריך תשלום קודם לא חוקי
+        -->
+    </string>
+
+    <string name="deposit_check_of_0" formatted="false">
+הפקדת צק של %s.
+\n
+(%s..%s)
+        <!--
+הפקדת צק של דייר נדב.
+(חודש 1,עוד 8 צקים)
+        -->
+    </string>
+
+    <string name="bill_of_0" formatted="false">
+%s חשבון
+\n
+(%s עבור %s)
+        <!--
+דייר נדב חשבון
+ (חודש 1,חשמל/מים)
+        -->
+    </string>
+
+    <string name="next_bill_0" formatted="false">
+        תשלום הבא:%s
+        <!--
+תשלום הבא:15-1-16 (עוד 21 ימים)
+        -->
+    </string>
+
+    <string name="wait_for_deposit">ממתין להפקדה</string>
+    <string name="wait_for_pay">ממתין לתשלום</string>
+
+    <string name="remove_0" formatted="false">
+        הסר %s
+        <!--
+הסר דייר נדב
+        -->
+    </string>
+
+    <string name="edit1" formatted="false">
+        %s(עריכה)
+    </string>
+
+    <string name="wait_for_update_or_post_0" formatted="false">
+        %s:ממתין לעדכון מונה או דחיית חשבון.
+        <!--
+מים/חשמל:ממתין לעדכון מונה או דחיית חשבון.
+        -->
+    </string>
+
+    <string name="post_pay_0_to_next_month" formatted="false">
+        דחה תשלום %s לחודש הבא
+        <!--
+מים/חשמל:ממתין לעדכון מונה או דחיית חשבון.
+        -->
+    </string>
+
+
+    <string name="_0_precede" formatted="false">
+        %s הוקדם
+        <!--
+תשלום:שכירות/חשמל הוקדם,מים נדחה
+        -->
+    </string>
+    <string name="_0_postponed" formatted="false">
+        %s נדחה
+        <!--
+תשלום:שכירות/חשמל הוקדם,מים נדחה
+        -->
+    </string>
+
+    <string name="curent_0" formatted="false">
+        נוכחי(%s)
+        <!--
+נוכחי(01-01-16 12:00)
+        -->
+    </string>
+
+    <string name="orig_0" formatted="false">
+        מקורי(%s)
+        <!--
+נוכחי(01-01-16 12:00)
+        -->
+    </string>
+
+    <string name="restor1_0" formatted="false">
+        (שחזור %s)
+        <!--
+(שחזור 25-12-15 22:36)
+        -->
+    </string>
+
+    <string name="reminder1_0" formatted="false">
+        תזכורת (%s)
+        <!--
+תזכורת (25-12-15)
+        -->
+    </string>
+
+    <string name="postponed2_to_0" formatted="false">
+        נדחה ל %s
+        <!--
+נדחה ל 26-12-15 01:42
+        -->
+    </string>
+
+    <string name="call_to_0" formatted="false">
+        התקשר ל %s.
+        <!--
+התקשר ל דייר נדב.
+        -->
+    </string>
+    <string name="send_message_to_0" formatted="false">
+        שלח הודעה ל %s.
+        <!--
+שלח הודעה ל דייר נדב.
+        -->
+    </string>
+
+    <string name="counter_0_out_of_date_cant_end_contract" formatted="false">
+מונה  %s לא מעודכן
+\n
+אי אפשר לסגור חוזה
+        <!--
+מונה חשמל/מים לא מעודכן
+ אי אפשר לסגור חוזה
+        -->
+    </string>
+
+    <string name="_0_bill_not_paid_close_it_or_update_debt">חשבון %s לא שולם.\nיש ליסגור חשבון או לעדכן חוב.</string>
+
+    <string name="termination_should_be_in_0">
+        סיום חוזה אמור להיות ב %s
+        <!--
+סיום חוזה אמור להיות ב 1-10-16 (עוד 279 ימים)
+        -->
+    </string>
+
+    <string name="total_0_months">
+        סה"כ %s חודשים
+        <!--
+סהכ 15 חודשים
+        -->
+    </string>
+    <string name="_0_finished_contract">
+%s סיים חוזה
+        <!--
+דייר נדב סיים חוזה
+        -->
+    </string>
+
+    <string name="payment_0">
+        תשלום %s
+        <!--
+תשלום חשמל
+        -->
+    </string>
+
+    <string name="wait_for_pay_0_days">
+        ממתין לתשלום..(%s)
+        <!--
+ממתין לתשלום..(3 ימים)
+        -->
+    </string>
+
+    <string name="next_payment_0">
+        תשלום הבא %s
+        <!--
+תשלום הבא עוד 20 ימים
+        -->
+    </string>
+
+    <string name="prev_payment_0">
+        (תשלום הקודם:%s)
+        <!--
+(תשלום הקודם:22-11-15)
+        -->
+    </string>
+
+    <string name="_0_new_reminders">%s תזכורות חדשות</string>
+
+    <string name="next_alert">
+        התראה הבאה:
+    </string>
+
+    <string name="cant_save_changes_read_only">
+לא ניתן לשמור שינויים ,
+\n
+נפתח לקריאה בלבד
+    </string>
+
+    <string name="retroactive_update">
+        ניתן לבצע עדכון רטרואקטיבי
+\n
+        עד העדכון הקודם :%s
+    </string>
+    <string name="language">שפה</string>
+    <string name="chose_date_title">בחר תאריך</string>
+    <string name="in_0_0_time" formatted="false">
+        עוד %s %s
+    </string>
+    <string name="_0_0_ago" formatted="false">
+        לפני %s %s
+    </string>
+    <string name="price">מחיר</string>
+    <string name="chose_currency_title">בחר מטבע</string>
+    <string name="currency">מטבע</string>
+    <string name="wait_for_deposit_0_days">ממתין להפקדה..(%s).</string>
+    <string name="create_new_db">יצירת מסד נתונים חדש</string>
+    <string name="end_of_contract_alert1">חוזה עם %s מסתיים..</string>
+    <string name="include_counters">כולל מונים</string>
+    <string name="save_befor_restart_title">התבצעו שינויים והם לא ישמרו,אתה בטוח?</string>
+    <string name="premium_upgrade">עבור ל Pro</string>
+    <string name="not_pro_title">%s\nנתמך בגרסת ה-Pro בלבד</string>
+
+    <string name="apartments_max_free">
+        יותר מ
+        %s
+        דירות
+    </string>
+    <string name="backup">גיבוי</string>
+    <string name="send_sms_limit_title">הגבלת שליחת הודעות ל%s</string>s
+    <string name="round">מעוגל</string>
+    <string name="_0_not_in_cur_bill">תשלום %s לא כרגע</string>
+    <string name="its_ok">זה בסדר</string>
+    <string name="email">אימייל</string>
+    <string name="backup_by">גיבוי באמצעות..</string>
+    <string name="backup_email_budy">ניתן לשחזר על ידי פתיחת הקובץ המצורף</string>
+    <string name="bacup_email_title">%s גיבוי:</string>
+    <string name="select_email_app">שלח באמצעות:</string>
+    <string name="restore_dialog_title">שחזור:</string>
+    <string name="advanced_payments">תשלום %s מראש</string>
+    <string name="months_in_advance" formatted="false">%s חודשים מראש(%s)</string>
+    <string name="n_month">%s חודשים</string>
+    <string name="start_demo_dialog">
+הנתונים המוצגים באפלקציה הינן להמחשה בלבד …
+    </string>
+    <string name="contact_us">צור קשר</string>
+    <string name="contact_us_email_budy">
+        ..תקלות..בעיות..דרישות..בקשות..שאלות..
+    </string>
+    <string name="renta_suport_subject_email_budy">תמיכה</string>
+    <string name="reset_alerts_to_default">אפס התראות לברירת המחדל?</string>
+    <string name="set_default">ברירת מחדל</string>
+    <string name="hi_ten">היי %s</string>
+    <string name="counter_0_is_updated">מונה ה%s מעודכן</string>
+    <string name="names_order">
+יורם
+דוד
+אברהם
+עומר
+יצחק
+יעקוב
+    </string>
+    <string name="payment_or_deposit">תשלום/הפקדה</string>
+    <string formatted="false" name="update_o_to_o">עדכן %s ל %s</string>
+    <string name="please_update_your_app">האפלקציה זקוקה לעדכון</string>
+    <string name="not_now">לא עכשיו</string>
+    <string name="use_long_click_msg">ללחוץ לחיצה ארוכה</string>
+    <string name="share">שתף</string>
+    <string name="cannot_run_without_permissions">לא ניתן להפעיל בלי הרשאות</string>
+    <string name="del_all">מחק הכל</string>
+    <string name="minutes">דקות</string>
+    <string name="how_to_start_title">ברוך הבא,
+\n
+איך ברצונך להתחיל ?</string>
+    <string name="sample_database1">נתונים לדוגמא</string>
+    <string name="del_0">למחוק את %s?</string>
+    <string name="hide">דירה מוסתרת</string>
+    <string name="apprtment_shown">דירה מוצגת</string>
+    <string name="show_demo">הצג הדגמה (דמו ..)</string>
+    <string name="update_next_date">עדכן תאריך הבא.</string>
+    <string name="property">נכסים</string>
+    <string name="about">אודות</string>
+    <string name="show_demo_movie">צפה בסרטון הדגמה</string>
+    <string name="contact_not_found">%s לא נמצא</string>
+    <string name="postponed_to_hour">דחה להיום ב..</string>
+    <string name="change_counter_0">החלף מונה %s</string>
+    <string name="illegal_value">ערך לא חוקי</string>
+    <string name="save">שמור</string>
+    <string name="in_app_purchases_error">לא ניתן לבצע רכישה,בדוק תקשורת או צור קשר..</string>
+    <string name="auto_save_on_exit">שמירה אוטומטית ביציאה</string>
+    <string name="end_edit">סיום עריכה</string>
+    <string name="no_changes_goto_history">לא נעשו שינויים..\nאתה יכול לראות שמירת\nשינויים קודמים מדף ההיסטוריה</string>
+    <string name="auto_cnt_msg">עדכון אוטומטי מתבצע כאשר המונה לא קיים פיזית והוא מחושב כהפרש מונים(חיצוני - פנימים)</string>
+    <string name="is_auto_cnt">אוטומטי</string>
+    <string name="main_cnt">ראשי</string>
+    <string name="secondary_cnt">מישני</string>
+    <string name="just_one_auto_unit_msg" formatted="false">
+ניתן להגדיר רק מונה אוטומטי אחד
+(%s כבר הוגדר)
+    </string>
+    <string name="are_you_sure_delete_all_cnt" formatted="false">כול המדידות של %s ב %s ימחקו,אתה בטוח ?</string>
+    <string name="illegal_auto_cnt" formatted="false">
+(
+        חישוב מונה אוטומטי שגוי
+ %s
+)
+    </string>
+    <string name="last_updated">עידכון</string>
+    <string name="elect_cnts">מוני-חשמל</string>
+    <string name="water_cnts">מוני-מים</string>
+    <string name="send_sms_to_0" formatted="false">
+        שלח הודעה ל %s
+    </string>
+    <string name="should_update_auto_not_manual"> אמור להתעדכן אוטומטית</string>
+    <string name="set_nickname_for">בחר כינוי עבור</string>
+    <string name="make_conntact_with" formatted="false">צור קשר עם %s</string>
+    <string name="diff_cnt_txt">הפרש</string>
+    <string name="changes_saved">שינויים נשמרו</string>
+    <string name="edit_btn">כפתור עריכה</string>
+    <string name="show_gen_edit_btn">הצג כפתור עריכה</string>
+    <string name="long_press_on_text_field">לחץ לחיצה ארוכה על אחת משורות הטקסט</string>
+    <string name="rmv_gen_edit_popup_txt">ניתן לגשת למצב העריכה גם דרך התפריט</string>
+    <string name="add_units">הוסף יחידות</string>
+    <string name="undef_status">לא מוגדר</string>
+    <string name="contract_with_0">
+        הצג חוזה עם %s
+    </string>
+    <string name="calendar">לוח שנה</string>
+    <string name="goto_google_play">חנות</string>
+    <string name="end_of_contract_alert0">חידוש חוזה עם %s...</string>
+    <string name="google_drive">גוגל-דרייב</string>
+    <string name="auto_backup_google_drive_off">גיבוי אוטומטי כבוי</string>
+    <string name="auto_backup_google_drive_on">גיבוי אוטומטי פועל</string>
+    <string name="backup_once_by_email">גיבוי באמצעות אימאיל</string>
+    <string name="backup_recovery">גיבוי\\שחזור</string>
+    <string name="change_google_account">שינוי חשבון</string>
+    <string name="en_google_drive_backup_title">האם ברצונך לגבות בצורה אוטומטית בגוגל דרייב ?</string>
+    <string name="no_data_to_recover">לא נמצאו נתונים לשחזור</string>
+    <string name="not_connected">אתה לא מחובר</string>
+    <string name="recovery_from_google_drive_">שחזור(גוגל-דרייב)</string>
+    <string name="stop_this_progress">לעצור את התהליך?</string>
+    <string name="recovery_">שיחזור</string>
+    <string name="restart_wait">הפעלה מחדש,אנא המתן...</string>
+    <string name="check_connection">בדיקת תקשורת</string>
+    <string name="file_already_exists_locally">קובץ כבר קיים</string>
+    <string name="save_to_google_drive">שמור בגוגל-דרייב</string>
+    <string name="all">הכל</string>
+    <string name="new_user">משתמש חדש</string>
+    <string name="tenants">דיירים</string>
+    <string name="add_unit">הוספת יחידה</string>
+    <string name="unit_name">שם היחידה</string>
+    <string name="contacts">אנשי-קשר</string>
+    <string name="storage">איחסון</string>
+    <string name="imojie">אימוגי</string>
+    <string name="permissions">הרשאות</string>
+    <string name="post_month">דחה בחודש</string>
+    <string name="last_game_befor_you_go">האם אתה רוצה לראות הדגמה אחרונה לפני שאתה מסיר את ההתקנה ?</string>
+    <string name="add_new_apartment">הוסף דירות</string>
+    <string name="setting_allow_anim">אנימציה</string>
+    <string name="update_apartment">עדכן דירה</string>
+    <string name="restart">ריסטרט</string>
+    <string name="add_and_save">הוסף דירה נוספת או שמור</string>
+    <string name="last_on_back_msg">לחץ שוב כדי לצאת</string>
+    <string name="help_renta_dlog">אתה יכול לעזור לרנטה..</string>
+    <string name="help_rate_us">דרג אותנו 5 כוכבים</string>
+    <string name="debt_alert">התראה על החוב</string>
+    <string name="wait_for_debt">מחכה לתשלום חוב</string>
+    <string name="alert_canceled">ההתראה בוטלה</string>
+    <string name="copy">העתק חשבון</string>
+    <string name="new_alert">הוסף התראה חדשה</string>
+    <string name="date_format">פורמט תאריך</string>
+    <string name="add_phone_numer">הוסף מספר טלפון</string>
+    <string name="phone_or_name">שם/מספר</string>
+    <string name="alerts_max_free">יותר מ -%s התראות</string>
+    <string name="existing_user">משתמש קיים</string>
+    <string name="add_contact">הוסף איש קשר</string>
+    <string name="local_setting">מקומי</string>
+    <string name="general">כללי</string>
+    <string name="data">נתונים</string>
+    <string name="auto">אוטומטי</string>
+    <string name="manual">ידני</string>
+    <string name="update_show_meters">הצג מונים</string>
+    <string name="update_hide_meters">הסתר מונים</string>
+    <string name="notif_shortcat_toast_msg">"הצג תמיד סמל אפליקציה "</string>
+    <string name="shortcut">קיצורי דרך</string>
+    <string name="en_notif_shortcut">הצג בסטטוס בר</string>
+    <string name="sort_up_ascending">עולה</string>
+    <string name="sort_down_descending">יורד</string>
+    <string name="nickname">כינוי</string>
+    <string name="contact">איש קשר</string>
+    <string name="call">שיחה</string>
+    <string name="SMS" >הודעה</string>
+    <string name="WhatsApp" >וואטסאפ</string>
+    <string name="pro_try">נסיון</string>
+    <string name="premium_upgrade0">שדרוג</string>
+    <string name="lease_renewal_alert">התראה על חידוש חוזה</string>
+    <string name="end_of_contract_alert">התראה על סיום חוזה</string>
+    <string name="last_check">צ\'ק אחרון</string>
+    <string name="payment_sound_effect">אפקט צליל תשלום</string>
+    <string name="lease_renewal_alert_info">חודש לפני סיום חוזה</string>
+    <string name="tomorrow">מחר</string>
+    <string name="counter_restarted">%s התחיל מחדש</string>
+    <string name="last_counter_payment_before_new">תשלום %s האחרון היה ב %s</string>
+    <string name="stop">עצור</string>
+    <string name="not_installed">%s לא מותקן</string>
+    <string name="ext_storage_location">מיקום אחסון</string>
+    <string name="intrenal_storage">אחסון פנימי</string>
+    <string name="sd_card">כרטיס SD</string>
+    <string name="reports">דוחות</string>
+    <string name="post_2month">דחה בחודשיים</string>
+    <string name="add_expense">הוסף הוצאה</string>
+    <string name="add_income">"הוסף הכנסה "</string>
+    <string name="average_income">"הכנסה ממוצעת "</string>
+    <string name="expenses">הוצאות</string>
+    <string name="revenue">הכנסות</string>
+    <string name="also_add_0_on">הוסף %s גם בתאריכים</string>
+    <string name="month0">החל מחודש</string>
+    <string name="month1">עד לחודש</string>
+    <string name="filter">סינון</string>
+    <string name="remove_tenant_history">הסר היסטוריית דיירים</string>
+    <string name="delete_report_from">מחק דוח מ- ..</string>
+
+</resources>

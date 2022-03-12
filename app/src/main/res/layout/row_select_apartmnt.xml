@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="left"
+              android:orientation="horizontal"
+              android:weightSum="100"
+              android:id="@+id/select_apartment_ll"
+    android:baselineAligned="false">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="20"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <ImageView
+            android:background="@drawable/buttun_background_color"
+            android:id="@+id/apart_type_iv"
+            android:layout_width="@dimen/btn_edit_size"
+            android:layout_height="@dimen/btn_edit_size"
+            android:src="@drawable/ic_home" android:padding="7dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_weight="80"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50"
+            android:orientation="horizontal"
+            >
+
+            <com.eodmmys.renta.AutoResizeTextView
+                android:id="@+id/apart_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:hint="@string/apartment"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50"
+            android:orientation="horizontal"
+            >
+
+            <com.eodmmys.renta.AutoResizeTextView
+                android:id="@+id/apart_stat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:gravity="center"
+                android:hint="@string/undef_status"
+                android:maxLines="1"
+                android:text="@string/undef_status"
+                android:textSize="100sp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

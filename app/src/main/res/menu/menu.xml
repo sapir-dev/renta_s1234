@@ -1,0 +1,127 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_add_new"
+        android:showAsAction="ifRoom"
+        android:title="@string/new1"/>
+
+    <item
+        android:id="@+id/action_make_conntact_with"
+        android:showAsAction="ifRoom"
+        android:title="@string/make_conntact_with"/>
+
+    <item
+        android:id="@+id/action_tenant_ended"
+        android:showAsAction="ifRoom"
+        android:title="@string/end_contract_with_0"/>
+    <item
+        android:id="@+id/action_new_tenant"
+        android:showAsAction="ifRoom"
+        android:title="@string/new_tenant"/>
+
+    <item
+        android:id="@+id/action_copy"
+        android:showAsAction="ifRoom"
+        android:title="@string/copy"/>
+
+    <item
+        android:id="@+id/action_add_expense"
+        android:showAsAction="ifRoom"
+        android:title="@string/add_expense"/>
+
+    <item
+        android:id="@+id/action_add_income"
+        android:showAsAction="ifRoom"
+        android:title="@string/add_income"/>
+
+    <item
+        android:id="@+id/action_average_income"
+        android:showAsAction="ifRoom"
+        android:title="@string/average_income"/>
+
+    <item
+        android:id="@+id/action_filter"
+        android:showAsAction="ifRoom"
+        android:title="@string/filter"/>
+
+
+    <item
+        android:id="@+id/action_hide_meters"
+        android:showAsAction="ifRoom"
+        android:title="@string/update_hide_meters"/>
+
+    <item
+        android:id="@+id/action_show_meters"
+        android:showAsAction="ifRoom"
+        android:title="@string/update_show_meters"/>
+
+
+    <item
+        android:id="@+id/action_update_counter"
+        android:showAsAction="ifRoom"
+        android:title="@string/update_counter_0"/>
+    <item
+        android:id="@+id/action_change_counter"
+        android:showAsAction="ifRoom"
+        android:title="@string/change_counter_0"/>
+    <item
+        android:id="@+id/action_prev_tanents"
+        android:showAsAction="ifRoom"
+        android:title="@string/previous_tenants"/>
+    <item
+        android:id="@+id/main_menu_clear"
+        android:showAsAction="ifRoom"
+        android:title="@string/clear"/>
+
+    <item
+        android:id="@+id/action_system"
+        android:showAsAction="ifRoom"
+        android:title="@string/setting"/>
+    <item
+        android:id="@+id/action_about"
+        android:showAsAction="ifRoom"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/action_del"
+        android:showAsAction="ifRoom"
+        android:title="@string/del"/>
+    <item
+        android:id="@+id/action_delete_report_from"
+        android:showAsAction="ifRoom"
+        android:title="@string/delete_report_from"/>
+
+    <item
+        android:id="@+id/action_undo"
+        android:showAsAction="ifRoom"
+        android:title="@string/undo_action"/>
+
+
+    <item
+        android:id="@+id/action_edit"
+        android:showAsAction="ifRoom"
+        android:title="@string/edit"/>
+    <item
+        android:id="@+id/action_details"
+        android:showAsAction="ifRoom"
+        android:title="@string/details"/>
+
+    <item
+        android:id="@+id/action_clear"
+        android:showAsAction="ifRoom"
+        android:title="@string/clear"/>
+    <item
+        android:id="@+id/action_set_default"
+        android:showAsAction="ifRoom"
+        android:title="@string/set_default"/>
+    <item
+        android:id="@+id/action_del_all"
+        android:showAsAction="ifRoom"
+        android:title="@string/del_all"/>
+    <item
+        android:id="@+id/action_save"
+        android:showAsAction="ifRoom"
+        android:title="@string/save"/>
+    <item
+        android:id="@+id/action_exit"
+        android:showAsAction="ifRoom"
+        android:title="@string/exit"/>
+</menu>

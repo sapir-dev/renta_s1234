@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="10"
+              android:gravity="center|center_vertical|center_horizontal"
+              android:showDividers="beginning|middle|end"
+              android:divider="#ff8cff45">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/counter_val1"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@color/main_blue"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/counter_date1"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@color/main_blue"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/apartment_counter_info1"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="@color/main_blue"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+
+</LinearLayout>

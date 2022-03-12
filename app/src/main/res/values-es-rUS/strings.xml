@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Apartment_empty">Apartamento vacío</string>
+    <string formatted="false" name="No">No</string>
+    <string formatted="false" name="_0_0_ago">Hace %s %s</string>
+    <string formatted="false" name="_0_bill_not_paid_close_it_or_update_debt">factura de %s no fue pagado. ciérrelo o actualice la deuda.</string>
+    <string formatted="false" name="_0_finished_contract">%s finaliza el contrato</string>
+    <string formatted="false" name="_0_new_reminders">%s nuevos recordatorios</string>
+    <string formatted="false" name="_0_not_in_cur_bill">El %s de pago no ahora</string>
+    <string formatted="false" name="_0_not_to_pay">%s no para el pago</string>
+    <string formatted="false" name="_0_post_to_0">%s rechazado para %s</string>
+    <string formatted="false" name="_0_postponed">%s rechazado</string>
+    <string formatted="false" name="_0_precede">Prepago %s</string>
+    <string formatted="false" name="_o_pending_deposit_check_0_days">%s:esperando depositar un cheque %s</string>
+    <string formatted="false" name="about">Acerca de</string>
+    <string formatted="false" name="add">Agregar</string>
+    <string formatted="false" name="add_and_save">Añadir otro</string>
+    <string formatted="false" name="add_contact">Agregar contacto</string>
+    <string formatted="false" name="add_new_apartment">Agregar apartamentos</string>
+    <string formatted="false" name="add_phone_numer">Añadir teléfono</string>
+    <string formatted="false" name="add_record">apartamento o guardar</string>
+    <string formatted="false" name="add_to_cur_bill">Agregar a la factura actual</string>
+    <string formatted="false" name="add_unit">Agregar unidad</string>
+    <string formatted="false" name="add_units">Agregar unidades</string>
+    <string formatted="false" name="advanced_payments">%s pago por adelantado</string>
+    <string formatted="false" name="alert_canceled">Alerta cancelada</string>
+    <string formatted="false" name="alerts">Alertas</string>
+    <string formatted="false" name="alerts_appear_at__">Las notificaciones se mostrarán en ..</string>
+    <string formatted="false" name="alerts_max_free">más de %s alertas</string>
+    <string formatted="false" name="all">Todas</string>
+    <string formatted="false" name="also_update_0_in_units">También actualice la tarifa %s en:</string>
+    <string formatted="false" name="amount_that_pay">Pagar</string>
+    <string formatted="false" name="amount_to_pay">Total</string>
+    <string formatted="false" name="apartment">Apartamento</string>
+    <string formatted="false" name="apartment_empty_0_days">El apartamento está vacío %s días</string>
+    <string formatted="false" name="apartment_name">Nombre del apartamento</string>
+    <string formatted="false" name="apartments_max_free">Más de %s apartamentos</string>
+    <string formatted="false" name="are_you_shure_you_want_to_exit">¿Estás seguro de que quieres salir?</string>
+    <string formatted="false" name="are_you_sure_delete_all_cnt">Se borrarán todos los registros de %s en %s, ¿está seguro?</string>
+    <string formatted="false" name="auto">"Auto "</string>
+    <string formatted="false" name="auto_backup_google_drive_off">Desconexión automática de respaldo</string>
+    <string formatted="false" name="auto_backup_google_drive_on">Encendido de respaldo automático</string>
+    <string formatted="false" name="auto_cnt_msg">Actualización automática realizada cuando no hay contador (físico) y se calcula por diferencia (externo-interno)</string>
+    <string formatted="false" name="auto_save_on_exit">Ahorro automático al salir</string>
+    <string formatted="false" name="auto_update_from_0_to_0">Actualización automática %s ( %s )</string>
+    <string formatted="false" name="backup">Backup</string>
+    <string formatted="false" name="backup_by">Copia de seguridad usando ...</string>
+    <string formatted="false" name="backup_email_budy">Puedes restaurarlo abriendo el archivo adjunto</string>
+    <string formatted="false" name="backup_once_by_email">Copia de seguridad una vez E-mail</string>
+    <string formatted="false" name="backup_recovery">Respaldo / Restauración</string>
+    <string formatted="false" name="bacup_email_title">Respaldo de %s:</string>
+    <string formatted="false" name="balance">Balance</string>
+    <string formatted="false" name="before_0_days">Hace %s días</string>
+    <string formatted="false" name="bill_of_0">%s pago (%s para %s)</string>
+    <string formatted="false" name="calendar">Calendario</string>
+    <string formatted="false" name="call_to_0">llamando a %s.</string>
+    <string formatted="false" name="cancel">Cancelar</string>
+    <string formatted="false" name="cannot_run_without_permissions">No se puede ejecutar sin permisos</string>
+    <string formatted="false" name="cant_save_changes_read_only">No se pueden mantener los cambios abiertos en solo lectura.</string>
+    <string formatted="false" name="change_counter_0">Cambiar %s medidor</string>
+    <string formatted="false" name="change_google_account">Cambiar cuenta</string>
+    <string formatted="false" name="are_you_sure">¿Estás seguro?</string>
+    <string formatted="false" name="changes_saved">Cambios guardados</string>
+    <string formatted="false" name="check">Cheque</string>
+    <string formatted="false" name="check1">Cheque-</string>
+    <string formatted="false" name="check2">(Cheque)</string>
+    <string formatted="false" name="check_connection">Verifica la conexión</string>
+    <string formatted="false" name="choose__">Seleccione ...</string>
+    <string formatted="false" name="chose_currency_title">Seleccione la moneda</string>
+    <string formatted="false" name="chose_date_title">Seleccione una fecha</string>
+    <string formatted="false" name="clear">Restablecer</string>
+    <string formatted="false" name="comment">Notas</string>
+    <string formatted="false" name="contact_not_found">%s no encontrado</string>
+    <string formatted="false" name="contact_us">Contáctanos</string>
+    <string formatted="false" name="contact_us_email_budy">Problemas \\ Preguntas \\ Errores \\ Solicitudes ...</string>
+    <string formatted="false" name="contacts">Contactos</string>
+    <string formatted="false" name="contract_with_0">Mostrar contrato con %s</string>
+    <string formatted="false" name="copy">Copia</string>
+    <string formatted="false" name="counter">Metros</string>
+    <string formatted="false" name="counter_0_is_updated">Se actualiza %s metro</string>
+    <string formatted="false" name="counter_0_out_of_date_cant_end_contract">%s contador no actualizado   imposible cerrar un contrato</string>
+    <string formatted="false" name="counter_not_updated_to_tenant">Lectura anticuada del medidor</string>
+    <string formatted="false" name="counters">Metros</string>
+    <string formatted="false" name="create_new_db">Crea una nueva base de datos.</string>
+    <string formatted="false" name="curent_0">Actual (%s)</string>
+    <string formatted="false" name="curent_date">Fecha actual</string>
+    <string formatted="false" name="currency">Moneda</string>
+    <string formatted="false" name="data">Datos</string>
+    <string formatted="false" name="date">Fecha</string>
+    <string formatted="false" name="date2">Fecha…</string>
+    <string formatted="false" name="date_format">Formato de fecha</string>
+    <string formatted="false" name="date_update">Fecha del último cambio</string>
+    <string formatted="false" name="dayly_alert">Alerta diaria</string>
+    <string formatted="false" name="days">Días</string>
+    <string formatted="false" name="days1">(%s Días)</string>
+    <string formatted="false" name="days2">%s Días</string>
+    <string formatted="false" name="debt">Deuda</string>
+    <string formatted="false" name="debt_0_of_0">Hay %s de %s</string>
+    <string formatted="false" name="debt_alert">alerta sobre la deuda</string>
+    <string formatted="false" name="del">Eliminar</string>
+    <string formatted="false" name="del_0">Eliminar %s ?</string>
+    <string formatted="false" name="del_all">borrar todo</string>
+    <string formatted="false" name="del_all_after_date">Eliminar todo después de la fecha</string>
+    <string formatted="false" name="del_all_befor_date">Eliminar todo antes de la fecha</string>
+    <string formatted="false" name="del_this_date">Eliminar solo esta fecha</string>
+    <string formatted="false" name="demo">Eliminar solo esta fecha</string>
+    <string formatted="false" name="deposit_check_of_0">Depositando %s cheque. (%s ..%s)</string>
+    <string formatted="false" name="details">Detalles</string>
+    <string formatted="false" name="diff_cnt_txt">Diferencia</string>
+    <string formatted="false" name="divided_apartment">Apartamento dividido</string>
+    <string formatted="false" name="edit">Editar</string>
+    <string formatted="false" name="edit1">%s(edición)</string>
+    <string formatted="false" name="edit_btn">Botón Editar</string>
+    <string formatted="false" name="elect">Eléctrico</string>
+    <string formatted="false" name="elect_cnt">Medidores de electricidad</string>
+    <string formatted="false" name="elect_cnts">Medidores eléctricos</string>
+    <string formatted="false" name="email">Email</string>
+    <string formatted="false" name="empty">Vacío</string>
+    <string formatted="false" name="en_google_drive_backup_title">¿Desea utilizar Google Drive para hacer una copia de seguridad de sus datos?</string>
+    <string formatted="false" name="en_notif_shortcut">Mostrar en la barra de estado</string>
+    <string formatted="false" name="end_contract">Finalización del contrato de alquiler</string>
+    <string formatted="false" name="end_contract_with_0">Terminar con %s</string>
+    <string formatted="false" name="end_edit">Finalizar Editar</string>
+    <string formatted="false" name="end_of_contract_alert0">Renovar contrato con %s ...</string>
+    <string formatted="false" name="end_of_contract_alert1">Contrato con %s terminando ..</string>
+    <string formatted="false" name="ending">Fin</string>
+    <string formatted="false" name="enter_again">Entrar de nuevo</string>
+    <string formatted="false" name="enter_name">Ingrese un nombre / dirección</string>
+    <string formatted="false" name="enter_password">Ingresa la contraseña</string>
+    <string formatted="false" name="every_0_in_month">Cada %s del mes</string>
+    <string formatted="false" name="every_0month_in_0">Cada %s meses en la %sth</string>
+    <string formatted="false" name="every_2month_in_0">Cada dos meses el día %s</string>
+    <string formatted="false" name="existing_user">Usuario existente</string>
+    <string formatted="false" name="exit">Salir</string>
+    <string formatted="false" name="file_already_exists_locally">El archivo ya existe localmente</string>
+    <string formatted="false" name="find">Encontrar</string>
+    <string formatted="false" name="general">General</string>
+    <string formatted="false" name="google_drive">Google Drive</string>
+    <string formatted="false" name="goto_google_play">Google Play</string>
+    <string formatted="false" name="help_rate_us">Califícanos 5 estrellas</string>
+    <string formatted="false" name="help_renta_dlog">Usted puede ayudar a promover %s</string>
+    <string formatted="false" name="hi_ten">Hola %s</string>
+    <string formatted="false" name="hide">Apartamento escondido</string>
+    <string formatted="false" name="history">Historia</string>
+    <string formatted="false" name="hours">Horas</string>
+    <string formatted="false" name="how_to_start_title">Bienvenido,   ¿Cómo quieres comenzar?</string>
+    <string formatted="false" name="ignor">Ignorar</string>
+    <string formatted="false" name="illegal_auto_cnt">(Contador automático ilegal %s)</string>
+    <string formatted="false" name="illegal_date">%s Fecha no válida</string>
+    <string formatted="false" name="illegal_password">Contraseña ilegal</string>
+    <string formatted="false" name="illegal_value">Valor ilegal</string>
+    <string formatted="false" name="imojie">Imojie</string>
+    <string formatted="false" name="in_0_0_time">En %s %s</string>
+    <string formatted="false" name="in_0_days">En %s días</string>
+    <string formatted="false" name="in_0_days_to_next_bill">%s días para el próximo pago.</string>
+    <string formatted="false" name="in_app_purchases_error">לא ניתן לבצע רכישות מתוך היישום, לבדוק את הרשת או ליצור איתנו קשר ......</string>
+    <string formatted="false" name="include_counters">Incluyendo contadores</string>
+    <string formatted="false" name="invalid_value">valor no válido</string>
+    <string formatted="false" name="irrelevant">Irrelevante</string>
+    <string formatted="false" name="is_auto_cnt">Auto</string>
+    <string formatted="false" name="its_ok">Está bien</string>
+    <string formatted="false" name="just_one_auto_unit_msg">solo una unidad puede tener contador automático (%s)</string>
+    <string formatted="false" name="language">Idioma</string>
+    <string formatted="false" name="last_game_befor_you_go">¿Desea ver la última demostración antes de desinstalar?</string>
+    <string formatted="false" name="last_on_back_msg">Haga clic nuevamente para salir</string>
+    <string formatted="false" name="last_update">Última actualización</string>
+    <string formatted="false" name="last_updated">Actualizado</string>
+    <string formatted="false" name="load">Cargando</string>
+    <string formatted="false" name="local_setting">Local</string>
+    <string formatted="false" name="log">Archivos</string>
+    <string formatted="false" name="long_press_on_text_field">Pulsación larga en cualquier campo de texto</string>
+    <string formatted="false" name="main">Casa</string>
+    <string formatted="false" name="main_cnt">Principal</string>
+    <string formatted="false" name="make_conntact_with">Establecer contacto con %s</string>
+    <string formatted="false" name="manual">Manual</string>
+    <string formatted="false" name="measur">-Mesurado-</string>
+    <string formatted="false" name="message_amant_0_send_at_0">(el mensaje fue enviado %s en %s)</string>
+    <string formatted="false" name="minutes">minutos</string>
+    <string formatted="false" name="monthly">Mensual</string>
+    <string formatted="false" name="monthly_payment__">Pago mensual ..</string>
+    <string formatted="false" name="months_in_advance">%s meses de anticipación (%s)</string>
+    <string formatted="false" name="more_0_checkes">%s cheques a la izquierda</string>
+    <string formatted="false" name="n_month">%s meses</string>
+    <string formatted="false" name="names_order">yoram david avraham omer itzhak yakov</string>
+    <string formatted="false" name="new1">Nuevo</string>
+    <string formatted="false" name="new_alert">Nueva alerta</string>
+    <string formatted="false" name="new_reminder">Nuevo recordatorio</string>
+    <string formatted="false" name="new_tenant">Nuevo inquilino</string>
+    <string formatted="false" name="new_tenant1">--Nuevo inquilino--</string>
+    <string formatted="false" name="new_user">Nuevo usuario</string>
+    <string formatted="false" name="next">Siguiente</string>
+    <string formatted="false" name="next_0_payment_be_at_0">El próximo %s pago debe ser %s</string>
+    <string formatted="false" name="next_alert">próxima alerta:</string>
+    <string formatted="false" name="next_bill_0">Siguiente pago:%s</string>
+    <string formatted="false" name="next_pay">Siguiente pago</string>
+    <string formatted="false" name="next_payment_0">Siguiente pago %s</string>
+    <string formatted="false" name="next_payment_not_updated">El siguiente pago no se actualiza</string>
+    <string formatted="false" name="no_changes_goto_history">No se hicieron cambios ... Puede ver y restaurar revisiones previamente guardadas desde la página de historial.</string>
+    <string formatted="false" name="no_data_to_recover">Sin datos para recuperar</string>
+    <string formatted="false" name="no_debt">Sin deuda</string>
+    <string formatted="false" name="no_payment">No para pago</string>
+    <string formatted="false" name="not_connected">Usted no está conectado</string>
+    <string formatted="false" name="not_found">No encontrado</string>
+    <string formatted="false" name="not_found1">(No encontrado)</string>
+    <string formatted="false" name="not_in_cur_bill">No por esta tarifa</string>
+    <string formatted="false" name="not_now">Ahora no</string>
+    <string formatted="false" name="not_pro_title">%s Soportado solo en la versión Pro.</string>
+    <string formatted="false" name="not_updated">No actualizado</string>
+    <string formatted="false" name="notif_shortcat_toast_msg">Mostrar siempre un ícono de aplicación en la barra de estado</string>
+    <string formatted="false" name="now">Ahora</string>
+    <string formatted="false" name="ok">OK</string>
+    <string formatted="false" name="only_this_date">Deje solo esta fecha</string>
+    <string formatted="false" name="orig_0">Original (%s)</string>
+    <string formatted="false" name="password">Contraseña</string>
+    <string formatted="false" name="pay_by_check_opt">El cheque %s fue depositado. ( %s para %s)</string>
+    <string formatted="false" name="pay_by_check_opt_for">%s para %s</string>
+    <string formatted="false" name="pay_delayed_0_days">El pago se retrasa unos días %s</string>
+    <string formatted="false" name="pay_different_amount">Monto pagado diferente</string>
+    <string formatted="false" name="payed1">pagado</string>
+    <string formatted="false" name="payed_0">%s pagado</string>
+    <string formatted="false" name="payed_0_on_0">Pagado %s por %s</string>
+    <string formatted="false" name="payment">Pago</string>
+    <string formatted="false" name="payment_0">%s pago</string>
+    <string formatted="false" name="payment_0_done_at_0">*pagado %s en %s.</string>
+    <string formatted="false" name="payment_checks_in_advance">Pago por cheques con fecha posterior</string>
+    <string formatted="false" name="payment_or_deposit">Pago / Depósito</string>
+    <string formatted="false" name="payments">Pagos</string>
+    <string formatted="false" name="pays">Paga</string>
+    <string formatted="false" name="period1">Periodo:</string>
+    <string formatted="false" name="permissions">Permisos</string>
+    <string formatted="false" name="phone_or_name">Teléfono / Nombre</string>
+    <string formatted="false" name="please_update_your_app">Por favor actualiza tu aplicación</string>
+    <string formatted="false" name="post_3_hours">Recuérdame en 3 horas</string>
+    <string formatted="false" name="post_month">Rechazar en mes</string>
+    <string formatted="false" name="post_pay_0_to_next_month">Rechazar el pago de %s del próximo mes</string>
+    <string formatted="false" name="post_to_next_bill">Rechazo para la próxima factura</string>
+    <string formatted="false" name="post_tomorrow">Recordarme mañana</string>
+    <string formatted="false" name="post_week">Rechazar en una semana</string>
+    <string formatted="false" name="postponed2_to_0">Posponer a %s</string>
+    <string formatted="false" name="postponed_to_0__">Posponer para el día ..</string>
+    <string formatted="false" name="postponed_to__">Posponer para fecha posterior ...</string>
+    <string formatted="false" name="postponed_to_date_time">Posponer para fecha / hora posterior ...</string>
+    <string formatted="false" name="postponed_to_hour">Hoy en ..</string>
+    <string formatted="false" name="pre_bill">Pago por adelantado</string>
+    <string formatted="false" name="pre_to_cur_bill">Precedente al pago actual</string>
+    <string formatted="false" name="premium_upgrade">Mejora Premium</string>
+    <string formatted="false" name="prev">Anterior</string>
+    <string formatted="false" name="prev_pay">Pago anterior</string>
+    <string formatted="false" name="prev_payment_0">(pago anterior: %s )</string>
+    <string formatted="false" name="prev_tenants_in_0">Inquilinos anteriores</string>
+    <string formatted="false" name="previous_payment_was_0">La factura del %s anterior estaba en %s</string>
+    <string formatted="false" name="previous_tenants">Inquilinos anteriores</string>
+    <string formatted="false" name="price">Precio</string>
+    <string formatted="false" name="prop_tax">Impuesto a la propiedad</string>
+    <string formatted="false" name="property">Propiedad</string>
+    <string formatted="false" name="rate_price">Precio / tasa</string>
+    <string formatted="false" name="recovery_">Recuperación</string>
+    <string formatted="false" name="recovery_from_google_drive_">Recuperación (Google-Drive)</string>
+    <string formatted="false" name="reminder1_0">Recordatorio ( %s )</string>
+    <string formatted="false" name="remove_0">Eliminar %s</string>
+    <string formatted="false" name="rent">Alquiler</string>
+    <string formatted="false" name="renta_suport_subject_email_budy">apoyo</string>
+    <string formatted="false" name="rental_not_updated">El alquiler no está actualizado</string>
+    <string formatted="false" name="reset_alerts_to_default">¿Restablecer alertas?</string>
+    <string formatted="false" name="restart">Reiniciar</string>
+    <string formatted="false" name="restart_wait">Reinicia, por favor espera ...</string>
+    <string formatted="false" name="restor1_0">(restaurar %s)</string>
+    <string formatted="false" name="restore">Restaurar</string>
+    <string formatted="false" name="restore_dialog_title">Recuperación:</string>
+    <string formatted="false" name="retroactive_update">Puedes hacer una actualización retroactiva hasta la última actualización:%s</string>
+    <string formatted="false" name="rmv_gen_edit_popup_txt">Puedes editar también desde el menú</string>
+    <string formatted="false" name="round">Redondeado</string>
+    <string formatted="false" name="sample_database1">Base de datos</string>
+    <string formatted="false" name="save">Guardar</string>
+    <string formatted="false" name="save_befor_restart_title">Los cambios que hagas se perderán, ¿estás seguro?</string>
+    <string formatted="false" name="save_changes_dialog2">¿Quieres guardar los cambios?</string>
+    <string formatted="false" name="save_to_google_drive">Guardar en Google Drive</string>
+    <string formatted="false" name="secondary_cnt">Secundario</string>
+    <string formatted="false" name="select_email_app">Enviar por:</string>
+    <string formatted="false" name="send_bill">Factura enviada</string>
+    <string formatted="false" name="send_message_to_0">Enviar mensaje a %s.</string>
+    <string formatted="false" name="send_sms_limit_title">Mensajes de envío limitados a %s</string>
+    <string formatted="false" name="send_sms_to_0">Enviar SMS a %s</string>
+    <string formatted="false" name="set_default">predeterminado</string>
+    <string formatted="false" name="set_nickname_for">Elige un apodo para</string>
+    <string formatted="false" name="setting">Configuraciones</string>
+    <string formatted="false" name="setting_allow_anim">Animaciones</string>
+    <string formatted="false" name="share">Compartir</string>
+    <string formatted="false" name="shortcut">Atajos</string>
+    <string formatted="false" name="should_update_auto_not_manual">contador automático</string>
+    <string formatted="false" name="apprtment_shown">Apartamento mostrado</string>
+    <string formatted="false" name="show_demo">Ver demostración</string>
+    <string formatted="false" name="show_demo_movie">Ver video tutorial</string>
+    <string formatted="false" name="show_gen_edit_btn">Mostrar botón de edición</string>
+    <string formatted="false" name="single_check">Solo cheque</string>
+    <string formatted="false" name="sort_down_descending">Descendente</string>
+    <string formatted="false" name="sort_up_ascending">Ascendente</string>
+    <string formatted="false" name="standard_apartment">Apartamento estándar</string>
+    <string formatted="false" name="start">Comienzo</string>
+    <string formatted="false" name="start_contract">Inicio de contrato de alquiler</string>
+    <string formatted="false" name="start_demo_dialog">Los datos presentados en la aplicación son solo para Ilustración ...</string>
+    <string formatted="false" name="status">estado</string>
+    <string formatted="false" name="stop_this_progress">Detener este progreso?</string>
+    <string formatted="false" name="storage">Almacenamiento</string>
+    <string formatted="false" name="tariff">Precio</string>
+    <string formatted="false" name="tenant">Inquilino</string>
+    <string formatted="false" name="tenant1">Tenant:</string>
+    <string formatted="false" name="tenants">Inquilinos</string>
+    <string formatted="false" name="termination_should_be_in_0">El final del contrato debe ser %s</string>
+    <string formatted="false" name="the_next_payment___">Siguiente pago ...</string>
+    <string formatted="false" name="the_prev_payment___">Pago anterior ...</string>
+    <string formatted="false" name="today">Hoy</string>
+    <string formatted="false" name="total">Total</string>
+    <string formatted="false" name="total_0_filles_will_delete_are_you_sure">%s Se borrarán los archivos. estás seguro?</string>
+    <string formatted="false" name="total_0_months">total  %s meses</string>
+    <string formatted="false" name="undef_status">Undefined</string>
+    <string formatted="false" name="undo_action">Deshacer</string>
+    <string formatted="false" name="unit">Unit</string>
+    <string formatted="false" name="unit1">Studio</string>
+    <string formatted="false" name="unit_name">Nombre de la unidad</string>
+    <string formatted="false" name="units">Units</string>
+    <string formatted="false" name="update">Actualizar</string>
+    <string formatted="false" name="update_a_new_tenant">Actualizar nuevo inquilino</string>
+    <string formatted="false" name="update_apartment">Actualizar departamento</string>
+    <string formatted="false" name="update_counter_0">Actualiza el contador %s</string>
+    <string formatted="false" name="update_date">Fecha de actualización</string>
+    <string formatted="false" name="update_date1">Fecha de actualización</string>
+    <string formatted="false" name="update_date_alerts_of__">Actualiza la notificación ..</string>
+    <string formatted="false" name="update_debt_balance">Actualizar saldo / deuda</string>
+    <string formatted="false" name="update_hide_meters">esconder los medidores</string>
+    <string formatted="false" name="update_log">Diario de actualización</string>
+    <string formatted="false" name="update_next_date">Actualiza la próxima fecha.</string>
+    <string formatted="false" name="update_o_to_o">Actualizar %s a %s</string>
+    <string formatted="false" name="update_show_meters">muestra los medidores</string>
+    <string formatted="false" name="update_tenants">Editar inquilinos</string>
+    <string formatted="false" name="use_long_click_msg">Use un clic largo ...</string>
+    <string formatted="false" name="version">Versión</string>
+    <string formatted="false" name="view_only">Ver solo</string>
+    <string formatted="false" name="wait__">Por favor espera ...</string>
+    <string formatted="false" name="wait_for_debt">Esperando el pago de la deuda</string>
+    <string formatted="false" name="wait_for_deposit">Esperando depósito</string>
+    <string formatted="false" name="wait_for_deposit_0_days">Esperando depósito..(%s).</string>
+    <string formatted="false" name="wait_for_pay">Esperando el pago</string>
+    <string formatted="false" name="wait_for_pay_0_days">Esperando el pago..(%s)</string>
+    <string formatted="false" name="wait_for_update_or_post_0">%s: esperando la actualización del contador o la disminución del pago</string>
+    <string formatted="false" name="warehouse">Almacén</string>
+    <string formatted="false" name="water">Agua</string>
+    <string formatted="false" name="water_cnt">Medidor de agua</string>
+    <string formatted="false" name="water_cnts">Medidores de agua</string>
+    <string formatted="false" name="without">Sin</string>
+    <string formatted="false" name="written_contract">Contrato fue escrito</string>
+    <string formatted="false" name="yes">Sí</string>
+    <string name="nickname">apodo</string>
+    <string name="contact">Contacto</string>
+    <string name="call">llamada</string>
+    <string name="SMS">SMS</string>
+    <string name="WhatsApp">WhatsApp</string>
+    <string name="pro_try">"Prueba "</string>
+    <string name="premium_upgrade0">premium</string>
+    <string name="end_of_contract_alert">Alerta de terminación de arrendamiento</string>
+    <string name="lease_renewal_alert">"Alerta de renovación de arrendamiento "</string>
+    <string name="last_check">último cheque</string>
+    <string name="payment_sound_effect">Efecto de sonido de pago</string>
+    <string name="lease_renewal_alert_info">Mes antes de que termine el alquiler</string>
+    <string name="tomorrow">mañana</string>
+    <string name="counter_restarted">%s reiniciado</string>
+    <string name="last_counter_payment_before_new">El último%s pago se realizó en%s</string>
+    <string name="stop">detener</string>
+    <string name="not_installed">%s no instalado</string>
+    <string name="ext_storage_location">ubicación de almacenamiento de</string>
+    <string name="intrenal_storage">almacenamiento interno</string>
+    <string name="sd_card">tarjeta SD</string>
+    <string name="reports">Informes</string>
+    <string name="add_expense">"Agregar gastos "</string>
+    <string name="add_income">"Agregar ingresos "</string>
+    <string name="average_income">"Ingreso promedio "</string>
+    <string name="expenses">Gastos</string>
+    <string name="post_2month">"Posponer por dos meses "</string>
+    <string name="revenue">Ingresos</string>
+    <string name="also_add_0_on">Agregue también %s en</string>
+    <string name="filter">Filtrar</string>
+    <string name="month0">Mes de inicio</string>
+    <string name="month1">Hasta el mes</string>
+    <string name="remove_tenant_history">Eliminar la historia de los inquilinos</string>
+    <string name="delete_report_from">Eliminar informe de ...</string>
+</resources>

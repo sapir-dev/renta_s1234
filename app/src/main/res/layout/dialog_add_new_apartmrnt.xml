@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:foregroundGravity="center"
+    android:gravity="center">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:gravity="center"
+                  android:orientation="vertical"
+                  android:weightSum="1">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/select_add_new_aprtmnt"
+        android:orientation="horizontal"
+        android:paddingTop="20dp">
+        <RadioGroup
+            android:id="@+id/select_new_type_rg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center|left"
+            android:padding="0dp">
+
+            <RadioButton
+                android:id="@+id/select_standard_apartment_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|right"
+                android:checked="true"
+                android:gravity="center"
+                android:text="@string/standard_apartment" android:paddingTop="10dp"
+                android:paddingBottom="10dp" android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/select_new_sep_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|right"
+                android:gravity="center"
+                android:text="@string/divided_apartment"
+                android:checked="false" android:paddingBottom="10dp" android:paddingTop="10dp"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/select_new_unit_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|right"
+                android:enabled="false"
+                android:visibility="gone"
+                android:gravity="center"
+                android:text="@string/unit1" android:paddingTop="10dp"
+                android:paddingBottom="10dp" android:textSize="20dp" />
+
+        </RadioGroup>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical" android:weightSum="3" android:paddingLeft="15dp">
+            <ImageView
+                android:background="@drawable/buttun_background_color"
+                android:layout_width="40dp"
+                android:layout_height="0dp"
+                android:src="@drawable/apartment"
+                android:layout_weight="1"
+                android:padding="2dp" />
+            <ImageView
+                android:background="@drawable/buttun_background_color"
+                android:layout_width="40dp"
+                android:layout_height="0dp"
+                android:src="@drawable/apartmenta"
+                android:layout_weight="1"
+                android:padding="2dp" />
+            <ImageView
+                android:background="@drawable/buttun_background_color"
+                android:layout_width="40dp"
+                android:layout_height="0dp"
+                android:src="@drawable/apartmentb"
+                android:layout_weight="1"
+                android:visibility="gone"
+                android:padding="2dp" />
+        </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <EditText
+                android:id="@+id/add_new_aprt_et"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:hint="@string/enter_name"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

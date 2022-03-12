@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="buttun_background_start_color"> #4DB6CC</color>
+    <color name="buttun_background_center_color">#0096a8</color>
+    <color name="buttun_background_end_color">   #00697C</color>
+
+    <color name="title_background_end_color">    #3790a4</color>
+    <color name="title_background_center_color"> #377594</color>
+    <color name="title_background_start_color">  #376084</color>
+
+
+    <color name="title1">#ff000000</color>
+    <color name="transperent_color">#00000000</color>
+
+
+    <color name="main_green">#3be04b</color>
+    <color name="main_red">#ff204b</color>
+    <color name="main_blue1">#0000ff</color>
+    <color name="main_blue">#1a0dff</color>
+
+
+    <color name="colorPrimary">#4d5ecf</color>
+    <color name="colorPrimaryDark">#376084</color> <!--top where is clock -->
+    <color name="colorAccent">#376084</color>
+
+    <color name="comment_color">#fffae3</color> <!-- text and checkbox -->
+
+</resources>

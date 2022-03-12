@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="460dp"
+    android:orientation="vertical"
+    android:id="@+id/apartment_info_ll"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:gravity="top"
+        android:paddingTop="10dp"
+        android:id="@+id/apartment_info_ll1"
+        android:layout_height="match_parent">
+
+    <include layout="@layout/mydiv" />
+
+    <ListView
+        android:id="@+id/apartment_info_gv"
+        android:gravity="top"
+        style="@style/list_view_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+        <include layout="@layout/mydiv" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="10"
+              android:gravity="center|center_vertical|center_horizontal"
+              android:showDividers="beginning|middle|end"
+              android:divider="#ff8cff45"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="100"
+        android:layout_height="wrap_content"
+        android:gravity="center" android:showDividers="beginning|middle|end"
+        android:dividerPadding="1dp" android:divider="@android:color/black"
+        android:id="@+id/cur_apart_bill_val_ll">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="wrap_content"
+            android:textColor="@color/title1"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:padding="5dp"
+            android:text="@string/payment"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="wrap_content"
+            android:textColor="@color/title1"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/date"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/title1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/total"
+            android:textStyle="bold"/>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

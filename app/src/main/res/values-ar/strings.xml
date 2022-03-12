@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+<string name = "_0_0_ago" formatted = "false">
+%s %s قبل
+</string>
+    
+<string name = "_0_bill_not_paid_close_it_or_update_debt" formatted = "false">
+لم يتم دفع فاتورة %s. إغلاقه أو تحديث الديون.
+</string>
+
+
+<string name = "_0_finished_contract" >
+عقد نهاية %s
+</string>
+
+<string name = "deposit_check_of_0" formatted = "false">
+إيداع شيك %s.
+\n
+(%s..%s)
+</string>
+
+
+<string name = "_0_new_reminders" formatted = "false">
+%s تذكير جديد
+</string>
+
+    
+<string name = "_0_not_in_cur_bill" formatted = "false">
+دفع %s ليس الآن
+</string>
+
+    
+<string name = "_0_not_to_pay" formatted = "false">
+%s ليس للدفع
+</string>
+
+    
+<string name = "_0_post_to_0" formatted = "false">
+رفض %s إلى %s
+</string>
+
+    
+<string name = "_0_postponed" formatted = "false">
+رفض %s
+</string>
+
+    
+<string name = "_0_precede" formatted = "false">
+جلب %s إلى الأمام
+</string>
+
+    
+<string name = "_o_pending_deposit_check_0_days" formatted = "false">
+%s: في انتظار إيداع check%s.
+</string>
+
+    
+<string name = "add" formatted = "false">
+إضافة
+</string>
+
+    
+<string name = "add_record" formatted = "false">
+أضف سجل
+</string>
+
+    
+<string name = "add_to_cur_bill" formatted = "false">
+أضف إلى الفاتورة الحالية
+</string>
+
+    
+<string name = "advanced_payments" formatted = "false">
+الدفع %s مقدما
+</string>
+
+    
+<string name = "alerts" formatted = "false">
+التنبيهات
+</string>
+
+    
+<string name = "alerts_appear_at__" formatted = "false">
+سيتم عرض الإخطارات في ..
+</string>
+
+    
+<string name = "also_update_0_in_units" formatted = "false">
+قم أيضًا بتحديث معدل %s في:
+</string>
+
+    
+<string name = "amount_that_pay" formatted = "false">
+سيصرف
+</string>
+
+    
+<string name = "amount_to_pay" formatted = "false">
+مجموع
+</string>
+
+    
+<string name = "apartment" formatted = "false">
+شقة
+</string>
+
+    
+<string name = "Apartment_empty" formatted = "false">
+شقة فارغة
+</string>
+
+    
+<string name = "apartment_empty_0_days" formatted = "false">
+الشقة هي أيام %s فارغة
+</string>
+
+    
+<string name = "apartment_name" formatted = "false">
+اسم الشقة
+</string>
+
+    
+<string name = "apartments_max_free" formatted = "false">
+أكثر من شقق %s
+</string>
+
+    
+<string name = "alerts_max_free" formatted = "false">
+أكثر من التنبيه %s
+</string>
+
+    
+<string name = "are_you_shure_you_want_to_exit" formatted = "false">
+هل أنت متأكد أنك تريد الخروج؟
+</string>
+
+
+    
+<string name = "save_changes_dialog2" formatted = "false">
+هل تريد ان تحفظ التغييرات؟
+</string>
+
+
+    
+<string name = "auto_update_from_0_to_0" formatted = "false">
+التحديث التلقائي %s (%s)
+</string>
+
+    
+<string name = "backup" formatted = "false">
+دعم
+</string>
+
+    
+<string name = "backup_by" formatted = "false">
+النسخ الاحتياطي من قبل ..
+</string>
+
+    
+<string name = "backup_email_budy" formatted = "false">
+يمكن استردادها عن طريق فتح الملف المرفق
+</string>
+
+    
+<string name = "bacup_email_title" formatted = "false">
+%s النسخ الاحتياطي:
+</string>
+
+    
+<string name = "balance" formatted = "false">
+توازن
+</string>
+
+    
+<string name = "before_0_days" formatted = "false">
+منذ يوم %s
+</string>
+
+<string name = "bill_of_0" formatted = "false">
+فاتورة %s \n (%s لـ %s)
+</string>
+
+    
+<string name = "call_to_0" formatted = "false">
+دعوة إلى %s.
+</string>
+
+    
+<string name = "cancel" formatted = "false">
+إلغاء
+</string>
+
+    
+<string name = "alert_canceled" formatted = "false">
+تم إلغاء التنبيه
+</string>
+
+    
+<string name = "cant_save_changes_read_only" formatted = "false">
+لا يمكن الاحتفاظ بالتغييرات ، مفتوح في للقراءة فقط
+</string>
+
+    
+<string name = "are_you_sure" formatted = "false">
+هل أنت واثق؟
+</string>
+
+    
+<string name = "check" formatted = "false">
+التحقق من
+</string>
+
+    
+<string name = "check1" formatted = "false">
+التحقق من-
+</string>
+
+    
+<string name = "check2" formatted = "false">
+(التحقق من)
+</string>
+
+    
+<string name = "choose__" formatted = "false">
+أختر…
+</string>
+
+    
+<string name = "chose_currency_title" formatted = "false">
+اختر العملة
+</string>
+
+    
+<string name = "chose_date_title" formatted = "false">
+حدد تاريخ
+</string>
+
+    
+<string name = "clear" formatted = "false">
+إعادة تعيين
+</string>
+
+    
+<string name = "comment" formatted = "false">
+تعليقات
+</string>
+
+    
+<string name = "contact_us" formatted = "false">
+اتصل بنا
+</string>
+
+    
+<string name = "contact_us_email_budy" formatted = "false">
+مشاكل \\ أسئلة \\ bugs \\ requests ..
+</string>
+
+    
+<string name = "counter" formatted = "false">
+متر
+</string>
+
+    
+<string name = "counter_0_out_of_date_cant_end_contract" formatted = "false">
+%s لم يتم تحديث متر \n مستحيل لإغلاق العقد
+</string>
+
+    
+<string name = "counter_not_updated_to_tenant" formatted = "false">
+قراءة العداد القديمة
+</string>
+
+    
+<string name = "counters" formatted = "false">
+متر
+</string>
+
+    
+<string name = "curent_0" formatted = "false">
+التيار (%s)
+</string>
+
+    
+<string name = "curent_date" formatted = "false">
+التاريخ الحالي
+</string>
+
+    
+<string name = "currency" formatted = "false">
+دقة
+</string>
+
+    
+<string name = "date" formatted = "false">
+تاريخ
+</string>
+
+    
+<string name = "date_update" formatted = "false">
+اخر تاريخ تحديث
+</string>
+
+    
+<string name = "date2" formatted = "false">
+تاريخ…
+</string>
+
+    
+<string name = "dayly_alert" formatted = "false">
+التنبيه اليومي
+</string>
+
+    
+<string name = "days" formatted = "false">
+أيام
+</string>
+
+    
+<string name = "days1" formatted = "false">
+(أيام %s)
+</string>
+
+    
+<string name = "days2" formatted = "false">
+أيام %s
+</string>
+
+    
+<string name = "debt" formatted = "false">
+دين
+</string>
+
+    
+<string name = "debt_0_of_0" formatted = "false">
+هناك %s %s
+</string>
+
+    
+<string name = "del" formatted = "false">
+حذف
+</string>
+
+    
+<string name = "del_all_after_date" formatted = "false">
+احذف الكل بعد التاريخ
+</string>
+
+    
+<string name = "del_all_befor_date" formatted = "false">
+احذف الكل قبل التاريخ
+</string>
+
+    
+<string name = "del_this_date" formatted = "false">
+احذف هذا التاريخ فقط
+</string>
+
+    
+<string name = "demo" formatted = "false">
+عرض
+</string>
+
+    
+   
+<string name = "details" formatted = "false">
+تفاصيل
+</string>
+
+    
+<string name = "divided_apartment" formatted = "false">
+شقة مقسمة
+</string>
+
+    
+<string name = "edit" formatted = "false">
+تصحيح
+</string>
+
+    
+<string name = "edit1" formatted = "false">
+%s (تحرير)
+</string>
+
+    
+<string name = "elect" formatted = "false">
+كهربائي
+</string>
+
+    
+<string name = "elect_cnt" formatted = "false">
+الكهربائية متر
+</string>
+
+    
+<string name = "email" formatted = "false">
+البريد الإلكتروني
+</string>
+
+    
+<string name = "empty" formatted = "false">
+فارغة
+</string>
+
+    
+<string name = "end_contract" formatted = "false">
+إنهاء عقد الإيجار
+</string>
+
+    
+<string name = "end_contract_with_0" formatted = "false">
+الانتهاء مع %s
+</string>
+
+    
+<string name = "end_of_contract_alert1" formatted = "false">
+عقد مع %s تنتهي ..
+</string>
+
+    
+<string name = "ending" formatted = "false">
+النهاية
+</string>
+
+    
+<string name = "enter_again" formatted = "false">
+أدخل مرة أخرى
+</string>
+
+    
+<string name = "enter_name" formatted = "false">
+أدخل الاسم / العنوان
+</string>
+
+    
+<string name = "enter_password" formatted = "false">
+أدخل كلمة المرور
+</string>
+
+    
+<string name = "every_0_in_month" formatted = "false">
+كل %sth من الشهر
+</string>
+
+    
+<string name = "every_0month_in_0" formatted = "false">
+كل أشهر %s على %sth
+</string>
+
+    
+<string name = "every_2month_in_0" formatted = "false">
+كل شهرين على %sth
+</string>
+
+    
+<string name = "exit" formatted = "false">
+ىخرج
+</string>
+
+    
+<string name = "find" formatted = "false">
+تجد
+</string>
+
+
+    <string name = "history" formatted = "false">
+التاريخ
+</string>
+
+    
+<string name = "hours" formatted = "false">
+ساعات
+</string>
+
+    
+<string name = "ignor" formatted = "false">
+تجاهل
+</string>
+
+    
+<string name = "illegal_date" formatted = "false">
+%s تاريخ غير صالح
+</string>
+
+    
+<string name = "illegal_password" formatted = "false">
+كلمة المرور غير القانونية
+</string>
+
+    
+<string name = "in_0_0_time" formatted = "false">
+في %s %s
+</string>
+
+    
+<string name = "in_0_days" formatted = "false">
+في أيام %s
+</string>
+
+    
+<string name = "in_0_days_to_next_bill" formatted = "false">
+أيام %s إلى الدفعة التالية.
+</string>
+
+    
+<string name = "include_counters" formatted = "false">
+بما في ذلك متر
+</string>
+
+    
+<string name = "invalid_value" formatted = "false">
+قيمة غير صالحة
+</string>
+
+    
+<string name = "irrelevant" formatted = "false">
+ليست له صلة، لا علاقة له مع الموضوع
+</string>
+
+    
+<string name = "its_ok" formatted = "false">
+هذا جيد
+</string>
+
+    
+<string name = "language" formatted = "false">
+لغة
+</string>
+
+    
+<string name = "last_update" formatted = "false">
+اخر تحديث
+</string>
+
+    
+<string name = "load" formatted = "false">
+جار التحميل
+</string>
+
+    
+<string name = "log" formatted = "false">
+تسجيل
+</string>
+
+    
+<string name = "main" formatted = "false">
+الصفحة الرئيسية
+</string>
+
+    
+<string name = "measur" formatted = "false">
+-Measured-
+</string>
+
+    
+<string name = "message_amant_0_send_at_0" formatted = "false">
+(تم إرسال الرسالة %s في %s)
+</string>
+
+    
+<string name = "monthly" formatted = "false">
+شهريا
+</string>
+
+    
+<string name = "monthly_payment__" formatted = "false">
+الدفع الشهري..
+</string>
+
+    
+<string name = "months_in_advance" formatted = "false">
+%s أشهر مقدما (%s)
+</string>
+
+    
+<string name = "more_0_checkes" formatted = "false">
+بقيت %s الشيكات
+</string>
+
+    
+<string name = "n_month" formatted = "false">
+أشهر %s
+</string>
+
+    
+<string name = "new_alert" formatted = "false">
+أضف تنبيهًا جديدًا
+</string>
+
+    
+<string name = "create_new_db" formatted = "false">
+قم بإنشاء قاعدة بيانات جديدة.
+</string>
+
+    
+<string name = "new_reminder" formatted = "false">
+تذكير جديد
+</string>
+
+    
+<string name = "new_tenant" formatted = "false">
+المستأجر الجديد
+</string>
+
+    
+<string name = "new_tenant1" formatted = "false">
+- مستأجر جديد--
+</string>
+
+    
+<string name = "new1" formatted = "false">
+الجديد
+</string>
+
+    
+<string name = "next" formatted = "false">
+التالى
+</string>
+
+    
+<string name = "next_0_payment_be_at_0" formatted = "false">
+يجب أن تكون دفعة %s التالية هي %s
+</string>
+
+    
+<string name = "next_alert" formatted = "false">
+التنبيه التالي:
+</string>
+
+    
+<string name = "next_bill_0" formatted = "false">
+الدفعة التالية: %s
+</string>
+
+    
+<string name = "next_pay" formatted = "false">
+الدفعة التالية
+</string>
+
+    
+<string name = "next_payment_0" formatted = "false">
+الدفعة التالية %s
+</string>
+
+    
+<string name = "next_payment_not_updated" formatted = "false">
+لا يتم تحديث الدفعة التالية
+</string>
+
+    
+<string name = "No" formatted = "false">
+لا
+</string>
+
+    
+<string name = "no_debt" formatted = "false">
+لا ديون
+</string>
+
+    
+<string name = "no_payment" formatted = "false">
+ليس للدفع
+</string>
+
+    
+<string name = "not_found1" formatted = "false">
+(غير معثور عليه)
+</string>
+
+    
+<string name = "not_found" formatted = "false">
+غير معثور عليه
+</string>
+
+    
+<string name = "not_in_cur_bill" formatted = "false">
+ليس في الفاتورة الحالية
+</string>
+
+    
+<string name = "not_pro_title" formatted = "false">
+%s \n معتمد فقط في الإصدار المحترف.
+</string>
+
+    
+<string name = "not_updated" formatted = "false">
+غير محدث
+</string>
+
+    
+<string name = "now" formatted = "false">
+الآن
+</string>
+
+    
+<string name = "ok" formatted = "false">
+حسنا
+</string>
+
+    
+<string name = "only_this_date" formatted = "false">
+اترك هذا التاريخ فقط
+</string>
+
+    
+<string name = "orig_0" formatted = "false">
+الأصلي (%s)
+</string>
+
+    
+<string name = "password" formatted = "false">
+كلمه السر
+</string>
+
+    
+<string name = "pay_by_check_opt" formatted = "false">
+تم إيداع شيك %s. \n (%s لـ %s)
+</string>
+
+<string name = "pay_by_check_opt_for" formatted = "false">
+%s لـ %s
+</string>
+
+
+<string name = "pay_delayed_0_days" formatted = "false">
+تأخر الدفع بضعة أيام %s
+</string>
+
+    
+<string name = "pay_different_amount" formatted = "false">
+دفع مبلغ مختلف
+</string>
+
+    
+<string name = "payed_0" formatted = "false">
+دفع %s
+</string>
+
+    
+<string name = "payed_0_on_0" formatted = "false">
+دفع %s ل %s
+</string>
+
+    
+<string name = "payed1" formatted = "false">
+دفع
+</string>
+
+    
+<string name = "payment" formatted = "false">
+دفع
+</string>
+
+    
+<string name = "payment_0" formatted = "false">
+دفع %s
+</string>
+
+    
+<string name = "payment_0_done_at_0" formatted = "false">
+* دفع %s في %s.
+</string>
+
+    
+<string name = "payment_checks_in_advance" formatted = "false">
+الدفع عن طريق شيكات مؤجلة
+</string>
+
+    
+<string name = "payments" formatted = "false">
+المدفوعات
+</string>
+
+    
+<string name = "pays" formatted = "false">
+يدفع
+</string>
+
+    
+<string name = "period1" formatted = "false">
+فترة:
+</string>
+
+    
+<string name = "post_3_hours" formatted = "false">
+ذكرني في 3 ساعات
+</string>
+
+    
+<string name = "post_pay_0_to_next_month" formatted = "false">
+رفض دفع %s للشهر التالي
+</string>
+
+    
+<string name = "post_to_next_bill" formatted = "false">
+رفض الفاتورة التالية
+</string>
+
+    
+<string name = "post_tomorrow" formatted = "false">
+ذكرني غداً
+</string>
+
+    
+<string name = "post_week" formatted = "false">
+رفض في أسبوع واحد
+</string>
+
+    
+<string name = "postponed_to__" formatted = "false">
+تأجيل إلى تاريخ لاحق ...
+</string>
+
+    
+<string name = "postponed_to_0__" formatted = "false">
+تأجيل اليوم ..
+</string>
+
+    
+<string name = "postponed2_to_0" formatted = "false">
+تأجيل ل %s
+</string>
+
+    
+<string name = "pre_bill" formatted = "false">
+قبل الفاتورة
+</string>
+
+    
+<string name = "pre_to_cur_bill" formatted = "false">
+يسبق الدفع الحالي
+</string>
+
+    
+<string name = "premium_upgrade" formatted = "false">
+ترقية متميزة
+</string>
+
+    
+<string name = "prev" formatted = "false">
+سابق
+</string>
+
+    
+<string name = "prev_pay" formatted = "false">
+الدفعة السابقة
+</string>
+
+    
+<string name = "prev_payment_0" formatted = "false">
+(الدفعة السابقة: %s)
+</string>
+
+    
+<string name = "prev_tenants_in_0" formatted = "false">
+المستأجرين السابقين
+</string>
+
+    
+<string name = "previous_payment_was_0" formatted = "false">
+كان %s السابقة بيل في %s
+</string>
+
+    
+<string name = "previous_tenants" formatted = "false">
+المستأجرين السابقين
+</string>
+
+    
+<string name = "price" formatted = "false">
+السعر
+</string>
+
+    
+<string name = "prop_tax" formatted = "false">
+ضريبة الأملاك
+</string>
+
+    
+<string name = "rate_price" formatted = "false">
+معدل / سعر
+</string>
+
+    
+<string name = "reminder1_0" formatted = "false">
+تذكير (%s)
+</string>
+
+    
+<string name = "remove_0" formatted = "false">
+إزالة %s
+</string>
+
+    
+<string name = "rent" formatted = "false">
+تأجير
+</string>
+
+    
+<string name = "renta_suport_subject_email_budy" formatted = "false">
+دعم رينتا
+</string>
+
+    
+<string name = "rental_not_updated" formatted = "false">
+لم يتم تحديث الإيجار
+</string>
+
+    
+<string name = "restor1_0" formatted = "false">
+(استعادة %s)
+</string>
+
+    
+<string name = "restore" formatted = "false">
+استعادة
+</string>
+
+    
+<string name = "restore_dialog_title" formatted = "false">
+التعافي:
+</string>
+
+    
+<string name = "retroactive_update" formatted = "false">
+يمكنك إجراء تحديث بأثر رجعي \n إلى آخر تحديث: %s
+</string>
+
+    
+<string name = "round" formatted = "false">
+مدور
+</string>
+
+    
+<string name = "save_befor_restart_title" formatted = "false">
+ سوف تفقد التغييرات التي قمت بها ، هل أنت متأكد؟
+</string>
+
+    
+<string name = "select_email_app" formatted = "false">
+أرسل بواسطة:
+</string>
+
+    
+<string name = "send_bill" formatted = "false">
+الفاتورة المرسلة
+</string>
+
+    
+<string name = "send_message_to_0" formatted = "false">
+إرسال رسالة إلى %s.
+</string>
+
+    
+<string name = "send_sms_limit_title" formatted = "false">
+محدودية إرسال الرسائل إلى %s
+</string>
+
+    
+<string name = "setting" formatted = "false">
+إعدادات
+</string>
+
+    
+<string name = "single_check" formatted = "false">
+فحص واحد
+</string>
+
+    
+<string name = "standard_apartment" formatted = "false">
+شقة قياسية
+</string>
+
+    
+<string name = "start" formatted = "false">
+البداية
+</string>
+
+    
+<string name = "start_contract" formatted = "false">
+عقد الإيجار
+</string>
+
+    
+<string name = "start_demo_dialog" formatted = "false">
+
+        البيانات المقدمة في التطبيق هي لالرسوم فقط ...
+    
+</string>
+
+    
+<string name = "status" formatted = "false">
+الحالة
+</string>
+
+    
+<string name = "tariff" formatted = "false">
+معدل
+</string>
+
+    
+<string name = "tenant" formatted = "false">
+مستأجر
+</string>
+
+    
+<string name = "tenant1" formatted = "false">
+المستأجر:
+</string>
+
+    
+<string name = "termination_should_be_in_0" formatted = "false">
+يجب أن يكون نهاية العقد على %s
+</string>
+
+    
+<string name = "the_next_payment___" formatted = "false">
+الدفعة التالية …
+</string>
+
+    
+<string name = "the_prev_payment___" formatted = "false">
+الدفعة السابقة ...
+</string>
+
+    
+<string name = "today" formatted = "false">
+اليوم
+</string>
+
+    
+<string name = "total" formatted = "false">
+مجموع
+</string>
+
+    
+<string name = "total_0_filles_will_delete_are_you_sure" formatted = "false">
+سيتم مسح ملفات %s. \n هل أنت متأكد؟
+</string>
+
+    
+<string name = "total_0_months" formatted = "false">
+مجموع أشهر %s
+</string>
+
+    
+<string name = "undo_action" formatted = "false">
+فك
+</string>
+
+    
+<string name = "unit" formatted = "false">
+وحدة
+</string>
+
+    
+<string name = "unit1" formatted = "false">
+ستوديو
+</string>
+
+    
+<string name = "units" formatted = "false">
+وحدات
+</string>
+
+    
+<string name = "update" formatted = "false">
+تحديث
+</string>
+
+    
+<string name = "update_a_new_tenant" formatted = "false">
+تحديث المستأجر الجديد
+</string>
+
+    
+<string name = "update_counter_0" formatted = "false">
+تحديث %s متر
+</string>
+
+    
+<string name = "update_date" formatted = "false">
+تاريخ التحديث
+</string>
+
+    
+<string name = "update_date_alerts_of__" formatted = "false">
+تحديث الإخطار ..
+</string>
+
+    
+<string name = "update_date1" formatted = "false">
+تاريخ التحديث
+</string>
+
+    
+<string name = "update_debt_balance" formatted = "false">
+تحديث الرصيد / الديون
+</string>
+
+    
+<string name = "update_log" formatted = "false">
+تحديث يوميات
+</string>
+
+    
+<string name = "update_tenants" formatted = "false">
+تحرير المستأجرين
+</string>
+
+    
+<string name = "version" formatted = "false">
+الإصدار
+</string>
+
+    
+<string name = "view_only" formatted = "false">
+للاطلاع فقط
+</string>
+
+    
+<string name = "wait__" formatted = "false">
+أرجو الإنتظار …
+</string>
+
+    
+<string name = "restart_wait" formatted = "false">
+إعادة التشغيل ، يرجى الانتظار ...
+</string>
+
+    
+<string name = "wait_for_deposit" formatted = "false">
+في انتظار الإيداع
+</string>
+
+    
+<string name = "wait_for_deposit_0_days" formatted = "false">
+في انتظار الإيداع .. (%s).
+</string>
+
+    
+<string name = "wait_for_pay" formatted = "false">
+في انتظار الدفع
+</string>
+
+    
+<string name = "wait_for_pay_0_days" formatted = "false">
+في انتظار الدفع .. (%s)
+</string>
+
+    
+<string name = "wait_for_update_or_post_0" formatted = "false">
+%s: في انتظار تحديث عداد أو فاتورة تأجيل
+</string>
+
+    
+<string name = "warehouse" formatted = "false">
+مستودع
+</string>
+
+    
+<string name = "water" formatted = "false">
+ماء
+</string>
+
+    
+<string name = "water_cnt" formatted = "false">
+عداد مياه
+</string>
+
+    
+<string name = "without" formatted = "false">
+بدون
+</string>
+
+    
+<string name = "written_contract" formatted = "false">
+تم كتابة العقد
+</string>
+
+    
+<string name = "yes" formatted = "false">
+نعم فعلا
+</string>
+
+    
+<string name = "reset_alerts_to_default">
+إعادة تعيين التنبيهات إلى الافتراضي؟
+</string>
+
+    
+<string name = "set_default">
+الافتراضي
+</string>
+
+    
+<string name = "hi_ten">
+مرحبا %s
+</string>
+
+    
+<string name = "counter_0_is_updated">
+يتم تحديث %s متر
+</string>
+
+    
+<string name = "names_order">
+
+يورام
+ديفيد
+ابراهام
+عمر
+اسحق
+ياكوف
+    
+</string>
+
+    
+<string name = "payment_or_deposit">
+دفع / الودائع
+</string>
+
+    
+<string name = "update_o_to_o" formatted = "false">
+تحديث %s إلى %s
+</string>
+
+    
+<string name = "please_update_your_app">
+يرجى تحديث التطبيق الخاص بك
+</string>
+
+    
+<string name = "not_now">
+ليس الان
+</string>
+
+    
+<string name = "use_long_click_msg">
+استخدم نقرة طويلة ..
+</string>
+
+    
+<string name = "share">
+شارك
+</string>
+
+    
+   
+<string name = "cannot_run_without_permissions">
+لا يمكن تشغيل بدون أذونات
+</string>
+
+    
+<string name = "del_all">
+حذف الكل
+</string>
+
+    
+<string name ="minutes">
+الدقائق
+</string>
+
+    
+<string name = "how_to_start_title">
+أهلا بك،
+\ ن
+كيف تريد أن تبدأ؟
+
+</string>
+
+    
+<string name = "sample_database1">
+نموذج قاعدة البيانات
+</string>
+
+    
+<string name = "show_demo">
+عرض تجريبي.
+</string>
+
+    
+<string name ="apprtment_shown">
+شقة المعروضة
+</string>
+
+    
+<string name = "hide">
+شقة مخبأة
+</string>
+
+    
+<string name = "del_0">
+حذف %s؟
+</string>
+
+    
+<string name = "send_sms_to_0">
+إرسال الرسائل القصيرة إلى %s
+</string>
+
+    
+<string name = "update_next_date">
+تحديث التاريخ القادم.
+</string>
+
+    
+<string name = "property">
+خاصية
+</string>
+
+    
+<string name = "about">
+حول
+</string>
+
+    
+<string name = "show_demo_movie">
+مشاهدة الفيديو التعليمي
+</string>
+
+    
+<string name = "contact_not_found">
+لم يتم العثور على %s
+</string>
+
+    
+<string name = "postponed_to_hour">
+اليوم في ..
+</string>
+
+    
+<string name = "change_counter_0">
+تغيير متر %s
+</string>
+
+    
+<string name = "illegal_value">
+قيمة غير قانونية
+</string>
+
+    
+<string name = "save">
+حفظ
+</string>
+
+
+    <string name = "in_app_purchases_error">
+يتعذر إجراء عمليات شراء داخل التطبيق أو التحقق من شبكتك أو الاتصال بنا ...
+</string>
+
+    
+<string name = "auto_save_on_exit">
+حفظ تلقائي عند الخروج
+</string>
+
+    
+<string name = "end_edit">
+أنهيته
+</string>
+
+    
+<string name = "no_changes_goto_history">
+لم يتم إجراء أي تغييرات ... \n يمكنك عرض واستعادة المراجعات التي سبق حفظها من صفحة السجل.
+</string>
+
+    
+<string name = "secondary_cnt">
+ثانوي
+</string>
+
+    
+<string name = "main_cnt">
+الأساسية
+</string>
+
+    
+<string name = "is_auto_cnt">
+تلقاءي
+</string>
+
+    
+<string name = "auto_cnt_msg">
+يتم التحديث التلقائي عندما لا يوجد عداد (فعلي) ، ويتم حسابه حسب الاختلاف (خارجي - داخلي)
+</string>
+
+    
+<string name = "just_one_auto_unit_msg" formatted = "false">
+وحدة واحدة فقط يمكن أن يكون لها عداد آلي (مجموعة %s alreday)
+</string>
+
+    
+<string name = "are_you_sure_delete_all_cnt" formatted = "false">
+سيتم حذف جميع سجلات %s في %s ، هل أنت متأكد؟
+</string>
+
+    
+<string name = "illegal_auto_cnt" formatted = "false">
+(عداد السيارات غير المشروعة %s)
+</string>
+
+    
+<string name = "last_updated">
+محدث
+</string>
+
+    
+<string name = "water_cnts">
+عدادات المياه
+</string>
+
+    
+<string name = "elect_cnts">
+متر الكهربائية
+</string>
+
+    
+<string name = "should_update_auto_not_manual">
+العداد التلقائي
+</string>
+
+    
+<string name = "long_press_on_text_field">
+الضغط لفترة طويلة على أي حقل النص
+</string>
+
+    
+<string name = "diff_cnt_txt">
+فرق
+</string>
+
+    
+<string name = "changes_saved">
+تم حفظ التغييرات
+</string>
+
+    
+<string name = "set_nickname_for">اختر لقب</string>
+
+    
+<string name = "make_conntact_with" formatted = "false">
+إجراء اتصال مع %s
+</string>
+
+    
+<string name = "show_gen_edit_btn">
+إظهار زر التعديل
+</string>
+
+    
+<string name = "edit_btn">
+زر التحرير
+</string>
+
+    
+<string name = "rmv_gen_edit_popup_txt">
+يمكنك أيضا تحرير من القائمة
+</string>
+
+    
+<string name = "add_units">
+اضافة وحدات
+</string>
+
+    
+<string name = "undef_status">
+غير محدد
+</string>
+
+    
+<string name = "contract_with_0">
+إظهار العقد مع %s
+</string>
+
+    
+<string name = "calendar">
+التقويم
+</string>
+
+    
+<string name = "goto_google_play">
+تطبيقات جوجل
+</string>
+
+    
+<string name = "postponed_to_date_time">
+تأجيل إلى وقت / وقت لاحق ...
+</string>
+
+    
+<string name = "end_of_contract_alert0">
+تجديد عقد الإيجار مع %s ...
+</string>
+
+    
+<string name = "backup_recovery">
+النسخ الاحتياطي / استعادة
+</string>
+
+    
+<string name = "backup_once_by_email">
+النسخ الاحتياطي مرة واحدة عن طريق البريد الإلكتروني
+</string>
+
+    
+<string name = "auto_backup_google_drive_on">
+النسخ الاحتياطي التلقائي
+</string>
+
+    
+<string name = "auto_backup_google_drive_off">
+الإيقاف التلقائي للنسخ الاحتياطي
+</string>
+
+    
+<string name = "recovery_">
+التعافي
+</string>
+
+    
+<string name = "recovery_from_google_drive_">
+الاسترداد (جوجل درايف)
+</string>
+
+    
+<string name = "no_data_to_recover">
+لا توجد بيانات لاستردادها
+</string>
+
+    
+<string name = "not_connected">
+أنت غير متصل
+</string>
+
+    
+<string name = "en_google_drive_backup_title">
+هل تريد استخدام Google Drive للنسخ الاحتياطي لبياناتك؟
+</string>
+
+    
+<string name = "change_google_account">
+تغير الحساب
+</string>
+
+    
+<string name = "stop_this_progress">
+وقف هذا التقدم؟
+</string>
+
+    
+<string name = "google_drive">
+جوجل درايف
+</string>
+
+    
+<string name = "check_connection">
+تحقق من اتصال
+</string>
+
+    
+<string name = "file_already_exists_locally">
+الملف موجود بالفعل محليا
+</string>
+
+    
+<string name = "save_to_google_drive">
+حفظ في Google-Drive
+</string>
+
+    
+<string name = "all">
+الكل
+</string>
+
+    
+<string name = "new_user">
+مستخدم جديد
+</string>
+   
+    
+<string name="tenants">
+المستأجرين
+</string>
+
+    
+<string name = "add_unit">
+إضافة وحدة
+</string>
+
+    
+<string name = "unit_name">
+إسم الوحدة
+</string>
+
+    
+<string name = "imojie">
+Imojie
+</string>
+
+    
+<string name = "contacts">
+جهات الاتصال
+</string>
+
+    
+<string name = "storage">
+تخزين
+</string>
+
+    
+<string name = "permissions">
+أذونات
+</string>
+
+    
+<string name = "copy">
+نسخ
+</string>
+
+    
+<string name = "post_month">
+رفض في الشهر
+</string>
+
+    
+<string name = "last_game_befor_you_go">
+هل تريد مشاهدة آخر عرض توضيحي قبل إزالة التثبيت؟
+</string>
+
+    
+<string name = "add_new_apartment">
+إضافة شقق
+</string>
+
+    
+<string name = "add_and_save">
+
+أضف آخر
+\n أو حفظ
+    
+</string>
+
+    
+<string name = "update_apartment">
+تحديث الشقة
+</string>
+
+    
+<string name = "restart">
+إعادة بدء
+</string>
+
+    
+<string name = "setting_allow_anim">
+الرسوم المتحركة
+</string>
+
+    
+<string name = "last_on_back_msg">
+انقر مرة أخرى للخروج
+</string>
+
+    
+<string name = "help_renta_dlog">
+يمكنك المساعدة prmote %s
+</string>
+
+    
+<string name = "help_rate_us">
+قيمنا 5 نجوم
+</string>
+
+    
+<string name = "debt_alert">
+التنبيه على الديون
+</string>
+
+    
+<string name = "wait_for_debt">
+في انتظار دفع الديون
+</string>
+
+    
+<string name = "date_format">
+صيغة التاريخ
+</string>
+
+    
+<string name = "add_phone_numer">
+أضف رقم الهاتف
+</string>
+
+    
+<string name = "phone_or_name">
+الهاتف / اسم
+</string>
+
+    
+<string name = "existing_user">
+مستخدم موجود
+</string>
+    <string name="add_contact">إضافة جهة اتصال</string>
+    <string name="local_setting">محلي</string>
+    <string name="general">جنرال لواء</string>
+    <string name="data">معطيات</string>
+    <string name="auto">اوتوماتي</string>
+    <string name="manual">يدوي</string>
+    <string name="update_hide_meters">"إخفاء عدادات "</string>
+    <string name="update_show_meters">تبين عدادات</string>
+    <string name="shortcut">اختصارات</string>
+    <string name="en_notif_shortcut">إظهار في شريط الحالة</string>
+    <string name="notif_shortcat_toast_msg">عرض أيقونة التطبيق دائمًا في شريط الحالة</string>
+    <string name="sort_up_ascending">تصاعدي</string>
+    <string name="sort_down_descending">تنازلي</string>
+    <string name="nickname">كنية</string>
+    <string name="contact">اتصل</string>
+    <string name="call">اتصل</string>
+    <string name="SMS">رسالة قصيرة</string>
+    <string name="WhatsApp">WhatsApp</string>
+    <string name="pro_try">حاول</string>
+    <string name="premium_upgrade0">"ترقية "</string>
+    <string name="end_of_contract_alert">"تنبيه انتهاء عقد الإيجار "</string>
+    <string name="lease_renewal_alert">"تنبيه تجديد عقد الإيجار "</string>
+    <string name="last_check">الشيك الأخير</string>
+    <string name="payment_sound_effect">تأثير الصوت الدفع</string>
+    <string name="lease_renewal_alert_info">الشهر قبل نهاية الإيجار</string>
+    <string name="tomorrow">غدا</string>
+    <string name="counter_restarted">بدأ %s أكثر</string>
+    <string name="last_counter_payment_before_new">آخر دفعة٪ s كانت في٪ s</string>
+    <string name="stop">توقف</string>
+    <string name="not_installed">%s غير مثبت</string>
+    <string name="sd_card">بطاقة ذاكرة</string>
+    <string name="intrenal_storage">التخزين الداخلي</string>
+    <string name="ext_storage_location">مكان التخزين</string>
+    <string name="reports">تقارير</string>
+    <string name="add_expense">"إضافة حساب "</string>
+    <string name="add_income">"إضافة الدخل "</string>
+    <string name="average_income">"متوسط الدخل "</string>
+    <string name="expenses">"نفقات "</string>
+    <string name="post_2month">"تأجيل شهرين "</string>
+    <string name="revenue">"إيرادات "</string>
+    <string name="also_add_0_on">قم بإضافة ٪s أيضًا</string>
+    <string name="month0">شهر البدء</string>
+    <string name="month1">حتى الشهر</string>
+    <string name="filter">منقي</string>
+    <string name="remove_tenant_history">إزالة محفوظات المستأجرين</string>
+    <string name="delete_report_from">حذف التقرير من ..</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+        android:weightSum="100"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:showDividers="beginning|middle|end"
+        android:divider="#000000"
+        android:id="@+id/payment_var_price_info_ll">
+
+        <TextView
+            style="@style/tenant_pay_info"
+            android:text="@string/payment"
+            android:layout_weight="30"
+            android:id="@+id/pay_tv"
+            android:layout_height="40dp"
+            android:maxLines="1"
+            android:padding="5dp"/>
+        <com.eodmmys.renta.AutoResizeTextView
+            
+            android:text="@string/tariff"
+            android:textSize="100sp"
+            android:maxLines="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:layout_weight="18"
+            android:id="@+id/price_tv"
+            style="@style/tenant_pay_info"
+            android:layout_height="match_parent"/>
+        <com.eodmmys.renta.AutoResizeTextView
+            android:text="@string/date2"
+            android:layout_weight="50"
+            android:maxLines="1"
+            style="@style/tenant_pay_info"
+            android:id="@+id/show_date_mode_tv"
+            android:layout_height="match_parent"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

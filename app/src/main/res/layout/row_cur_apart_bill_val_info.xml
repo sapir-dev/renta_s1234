@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:weightSum="10"
+              android:gravity="center|center_vertical|center_horizontal"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="100"
+        android:layout_height="wrap_content"
+        android:gravity="center" android:showDividers="beginning|middle|end"
+        android:dividerPadding="1dp" android:divider="@android:color/black"
+        android:baselineAligned="false"
+        android:id="@+id/cur_apart_bill_val_ll">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="match_parent"
+            >
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/main_blue"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="var"
+                android:padding="5dp"
+                android:id="@+id/var_cb"
+                android:hint="@string/payment"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="match_parent"
+            >
+
+            <com.eodmmys.renta.AutoResizeTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="date"
+                android:textColor="@color/main_blue"
+                android:id="@+id/date_tv"
+                android:hint="@string/date"
+                android:maxLines="2"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_weight="33"
+            android:layout_height="match_parent"
+            >
+
+            <com.eodmmys.renta.AutoResizeTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/val_tv"
+                android:gravity="center"
+                android:textColor="@color/main_blue"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="val"
+                android:hint="@string/total"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
