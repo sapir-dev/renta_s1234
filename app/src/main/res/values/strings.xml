@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="_0_0_ago" formatted="false">%s %s ago</string>
-    <string name="_0_bill_not_paid_close_it_or_update_debt" formatted="false">%s bill was not paid. close it or update the debt.</string>
+    <string name="_0_bill_not_paid_close_it_or_update_debt" formatted="false">%s bill was not paid. Close it or update the debt.</string>
     <string name="_0_finished_contract" formatted="false">%s end contract</string>
     <string name="_0_new_reminders" formatted="false">%s new reminders</string>
     <string name="_0_not_in_cur_bill" formatted="false">Payment %s not now</string>
@@ -9,13 +9,13 @@
     <string name="_0_post_to_0" formatted="false">%s rejected to %s</string>
     <string name="_0_postponed" formatted="false">%s rejected</string>
     <string name="_0_precede" formatted="false">%s brought forward</string>
-    <string name="_o_pending_deposit_check_0_days" formatted="false">%s:waiting to deposit a check%s.</string>
+    <string name="_o_pending_deposit_check_0_days" formatted="false">%s:waiting to deposit check%s.</string>
     <string name="add" formatted="false">Add</string>
     <string name="add_record" formatted="false">Add record</string>
     <string name="add_to_cur_bill" formatted="false">Add to current bill</string>
     <string name="advanced_payments" formatted="false">%s payment in advance</string>
     <string name="alerts" formatted="false">Alerts</string>
-    <string name="alerts_appear_at__" formatted="false">Notifications will be shown at ..</string>
+    <string name="alerts_appear_at__" formatted="false">Notifications will be shown at...</string>
     <string name="also_update_0_in_units" formatted="false">Also update %s rate in:</string>
     <string name="amount_that_pay" formatted="false">Payout</string>
     <string name="amount_to_pay" formatted="false">Total</string>
@@ -32,7 +32,7 @@
 
     <string name="auto_update_from_0_to_0" formatted="false">Automatic update %s (%s)</string>
     <string name="backup" formatted="false">Backup</string>
-    <string name="backup_by" formatted="false">Backup by ..</string>
+    <string name="backup_by" formatted="false">Backup by...</string>
     <string name="backup_email_budy" formatted="false">Can be recovered by opening the attached file</string>
     <string name="bacup_email_title" formatted="false">%s backup:</string>
     <string name="balance" formatted="false">Balance</string>
@@ -41,7 +41,7 @@
     <string name="call_to_0" formatted="false">Call to %s.</string>
     <string name="cancel" formatted="false">Cancel</string>
     <string name="alert_canceled" formatted="false">Alert canceled</string>
-    <string name="cant_save_changes_read_only" formatted="false">Can not keep changes , Opened in read-only</string>
+    <string name="cant_save_changes_read_only" formatted="false">Can not keep changes, opened as read-only</string>
     <string name="are_you_sure" formatted="false">Are you sure?</string>
     <string name="check" formatted="false">Check</string>
     <string name="check1" formatted="false">Check-</string>
@@ -85,7 +85,7 @@
     <string name="empty" formatted="false">Empty</string>
     <string name="end_contract" formatted="false">Ending tenancy agreement</string>
     <string name="end_contract_with_0" formatted="false">Finish with %s</string>
-    <string name="end_of_contract_alert1" formatted="false">Contract with %s ending..</string>
+    <string name="end_of_contract_alert1" formatted="false">Contract with %s ending...</string>
     <string name="ending" formatted="false">End</string>
     <string name="enter_again" formatted="false">Enter again</string>
     <string name="enter_name" formatted="false">Enter Name/Address</string>
@@ -113,7 +113,7 @@
     <string name="log" formatted="false">Records</string>
     <string name="main" formatted="false">Home</string>
     <string name="measur" formatted="false">-Measured-</string>
-    <string name="message_amant_0_send_at_0" formatted="false">(message was sent %s at %s)</string>
+    <string name="message_amant_0_send_at_0" formatted="false">(Message was sent %s at %s)</string>
     <string name="monthly" formatted="false">Monthly</string>
     <string name="monthly_payment__" formatted="false">Monthly payment..</string>
     <string name="months_in_advance" formatted="false">%s months in advance(%s)</string>
@@ -164,7 +164,7 @@
     <string name="post_to_next_bill" formatted="false">Rejection for next bill</string>
     <string name="post_tomorrow" formatted="false">Remind me tomorrow</string>
     <string name="post_week" formatted="false">Reject in one week</string>
-    <string name="postponed_to__" formatted="false">Postpone to later date …</string>
+    <string name="postponed_to__" formatted="false">Postpone to later date...</string>
     <string name="postponed_to_0__" formatted="false">Postpone to day..</string>
     <string name="postponed2_to_0" formatted="false">Postpone to %s</string>
     <string name="pre_bill" formatted="false">Pre the bill</string>
@@ -189,7 +189,7 @@
     <string name="restore_dialog_title" formatted="false">Recovery:</string>
     <string name="retroactive_update" formatted="false">You can make a retroactive update\ntill last update:%s</string>
     <string name="round" formatted="false">Rounded</string>
-    <string name="save_befor_restart_title" formatted="false"> Changes you made will be lost, are you sure?</string>
+    <string name="save_befor_restart_title" formatted="false">Changes you made will be lost, are you sure?</string>
     <string name="select_email_app" formatted="false">Send by:</string>
     <string name="send_bill" formatted="false">Sent bill</string>
     <string name="send_message_to_0" formatted="false">Send message to %s.</string>
@@ -200,7 +200,7 @@
     <string name="start" formatted="false">Beginning</string>
     <string name="start_contract" formatted="false">Starting tenancy agreement</string>
     <string name="start_demo_dialog" formatted="false">
-        The data presented in the application are for Illustration only...
+        The data presented in the application is for Illustration only...
     </string>
     <string name="status" formatted="false">Status</string>
     <string name="tariff" formatted="false">Rate</string>
@@ -211,7 +211,7 @@
     <string name="the_prev_payment___" formatted="false">Previous payment …</string>
     <string name="today" formatted="false">Today</string>
     <string name="total" formatted="false">Total</string>
-    <string name="total_0_filles_will_delete_are_you_sure" formatted="false">%s Files will be erased.\nare you sure ?</string>
+    <string name="total_0_filles_will_delete_are_you_sure" formatted="false">%s Files will be erased.\nAre you sure ?</string>
     <string name="total_0_months" formatted="false">Total %s months</string>
     <string name="undo_action" formatted="false">Undo</string>
     <string name="unit" formatted="false">Unit</string>
@@ -221,15 +221,15 @@
     <string name="update_a_new_tenant" formatted="false">Update new tenant</string>
     <string name="update_counter_0" formatted="false">Update %s meter </string>
     <string name="update_date" formatted="false">Update date</string>
-    <string name="update_date_alerts_of__" formatted="false">Update the notification..</string>
+    <string name="update_date_alerts_of__" formatted="false">Update the notification...</string>
     <string name="update_date1" formatted="false">Update date</string>
     <string name="update_debt_balance" formatted="false">Update balance/debt</string>
     <string name="update_log" formatted="false">Update diary</string>
     <string name="update_tenants" formatted="false">Editing tenants</string>
     <string name="version" formatted="false">Version</string>
     <string name="view_only" formatted="false">View only</string>
-    <string name="wait__" formatted="false">Please wait …</string>
-    <string name="restart_wait" formatted="false">Restart, please wait …</string>
+    <string name="wait__" formatted="false">Please wait...</string>
+    <string name="restart_wait" formatted="false">Restarting, please wait...</string>
     <string name="wait_for_deposit" formatted="false">Waiting for deposit</string>
     <string name="wait_for_deposit_0_days" formatted="false">Waiting for deposit..(%s).</string>
     <string name="wait_for_pay" formatted="false">Waiting for payment</string>
@@ -241,7 +241,7 @@
     <string name="without" formatted="false">Without</string>
     <string name="written_contract" formatted="false">Contract was written</string>
     <string name="yes" formatted="false">Yes</string>
-    <string name="reset_alerts_to_default">Reset alerts to default ?</string>
+    <string name="reset_alerts_to_default">Reset alerts to default?</string>
     <string name="set_default">default</string>
     <string name="hi_ten">Hi %s</string>
     <string name="counter_0_is_updated">%s meter is updated</string>
@@ -283,26 +283,26 @@ How do you want to start?
     <string name="change_counter_0">Change %s meter</string>
     <string name="illegal_value">Illegal value</string>
     <string name="save">Save</string>
-    <string name="in_app_purchases_error">Unable to make in-app purchases,check your network or contact us...</string>
+    <string name="in_app_purchases_error">Unable to make in-app purchases, check your network or contact us...</string>
     <string name="auto_save_on_exit">Auto save on exit</string>
     <string name="end_edit">Finish Edit</string>
-    <string name="no_changes_goto_history">No changes was made...\nYou can view and restore previously saved revisions from history page.</string>
+    <string name="no_changes_goto_history">No changes were made...\nYou can view and restore previously saved revisions from history page.</string>
     <string name="secondary_cnt">Secondary</string>
     <string name="main_cnt">Main</string>
     <string name="is_auto_cnt">Auto</string>
     <string name="auto_cnt_msg">Automatic updating performed when there is no Counter (physical),and it calculated by difference(external-internal)</string>
     <string name="just_one_auto_unit_msg" formatted="false">only one unit can have automatic counter(%s alreday set)</string>
-    <string name="are_you_sure_delete_all_cnt" formatted="false">All records of %s in %s will be deleted,are you sure ?</string>
+    <string name="are_you_sure_delete_all_cnt" formatted="false">All records of %s in %s will be deleted, are you sure?</string>
     <string name="illegal_auto_cnt" formatted="false">(Illegal auto counter %s )</string>
     <string name="last_updated">Updated</string>
     <string name="water_cnts">Water-meters</string>
     <string name="elect_cnts">Electric-meters</string>
-    <string name="should_update_auto_not_manual">Its automatic counter</string>
+    <string name="should_update_auto_not_manual">The counter is automatic</string>
     <string name="long_press_on_text_field">Long press on any text field</string>
     <string name="diff_cnt_txt">Diff</string>
     <string name="changes_saved">Changes saved</string>
     <string name="set_nickname_for">Choose nickname for</string>
-    <string name="make_conntact_with" formatted="false">Make contact with %s</string>
+    <string name="make_conntact_with" formatted="false">Contact %s</string>
     <string name="show_gen_edit_btn">Show edit button</string>
     <string name="edit_btn">Edit Button</string>
     <string name="rmv_gen_edit_popup_txt">You can edit also from the menu</string>
@@ -311,7 +311,7 @@ How do you want to start?
     <string name="contract_with_0">Show contract with %s</string>
     <string name="calendar">Calendar</string>
     <string name="goto_google_play">Google Play</string>
-    <string name="postponed_to_date_time">Postpone to later date/time …</string>
+    <string name="postponed_to_date_time">Postpone to later date/time...</string>
     <string name="end_of_contract_alert0">Lease renewal with %s...</string>
     <string name="backup_recovery">Backup/Recovery</string>
     <string name="backup_once_by_email">Backup once by E-mail</string>
@@ -336,13 +336,13 @@ How do you want to start?
     <string name="tenants">Tenants</string>
     <string name="add_unit">Add Unit</string>
     <string name="unit_name">Unit Name</string>
-    <string name="imojie">Imojie</string>
+    <string name="imojie">Emoji</string>
     <string name="contacts">Contacts</string>
     <string name="storage">Storage</string>
     <string name="permissions">Permissions</string>
     <string name="copy">Copy</string>
     <string name="post_month">Postpone by one month</string>
-    <string name="last_game_befor_you_go">Do you want to see last demo before you uninstall ?</string>
+    <string name="last_game_befor_you_go">Would you like to see a demo before uninstalling?</string>
     <string name="add_new_apartment">Add apartments</string>
     <string name="add_and_save">
 Add another
@@ -352,7 +352,7 @@ Add another
     <string name="restart">Restart</string>
     <string name="setting_allow_anim">Animations</string>
     <string name="last_on_back_msg">Click again to exit</string>
-    <string name="help_renta_dlog">You can help prmote %s</string>
+    <string name="help_renta_dlog">You can help promote %s</string>
     <string name="help_rate_us">Rate us 5 stars</string>
     <string name="debt_alert">Alert over debt</string>
     <string name="wait_for_debt">Waiting for debt payment</string>
@@ -369,7 +369,7 @@ Add another
     <string name="manual">Manual</string>
     <string name="update_hide_meters">Hide meters</string>
     <string name="update_show_meters">Show meters</string>
-    <string name="notif_shortcat_toast_msg">Show always an app icon in the status bar</string>
+    <string name="notif_shortcat_toast_msg">Always show an app icon in the status bar</string>
     <string name="shortcut">Shortcuts</string>
     <string name="en_notif_shortcut">Show in status bar</string>
     <string name="sort_up_ascending">Ascending</string>
@@ -403,6 +403,6 @@ Add another
     <string name="also_add_0_on">Also add %s on</string>
     <string name="filter">Filter</string>
     <string name="remove_tenant_history">Remove tenants history</string>
-    <string name="delete_report_from">Delete report from..</string>
+    <string name="delete_report_from">Delete report from...</string>
 
 </resources>
